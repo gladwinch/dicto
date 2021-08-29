@@ -54,6 +54,7 @@
     src: url('~assets/fonts/MPLUSRounded1c-Thin.ttf') format('truetype');
 }
 
-* {
-	font-family: 'M PLUS Rounded 1c', sans-serif;
+{
+	/* font-family: 'M PLUS Rounded 1c', sans-serif; */
+	font-family: sans-serif;
 }

@@ -23,8 +23,16 @@
 					<h1>
 						The most advance way of improving vocabulary with the help of our <span class="text-primary">Artificial Intelligence</span>.
 					</h1>
+
+					<div class="mt-10 p-2 flex">
+						<input placeholder="Word meaning?">
+						<button>Search</button>
+					</div>
 				</div>
-				<div>Photo area</div>
+				<div class="flex">
+					<img src="../static/phone.svg" style="transform: translateY(-4rem)" >
+					<img src="../static/phone2.svg" style="transform: translateY(-4rem)" >
+				</div>
 			</div>
 		</div>
 	</div>
@@ -56,6 +64,7 @@
 		font-size: 2.6rem;
 		color: #040001;
 		font-weight: 700;
+		max-width: 38rem;
 	}
 
 	/* ******* */
