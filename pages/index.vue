@@ -15,23 +15,24 @@
 
 			<div class="info-container">
 				<div>
-					<div class="flex content-center mb-6">
+					<div class="flex content-center mb-4">
 						<i class="fi-rr-bulb mr-1 font-medium" style="font-size: 1rem; color: #5D63BF"></i>
-						<span class="sub-text-heading font-medium">Build your vocal with less effort.</span>
+						<span class="sub-text-heading font-medium">Build your vocab with less effort.</span>
 					</div>
 
 					<h1>
-						The most advance way of improving vocabulary with the help of our <span class="text-primary">Artificial Intelligence</span>.
+						The most advance way of improving vocabulary with the help of our 
+						<span class="text-primary">Artificial 
+							<span style="color: #FC0C75" class="text-primary">Intelligence</span>
+						</span>.
 					</h1>
 
-					<div class="mt-10 p-2 flex">
-						<input placeholder="Word meaning?">
-						<button>Search</button>
+					<div class="flex mt-10 p-3 px-5 flex bg-gray-100 max-w-xs rounded shadow-inner">
+						<input class="flex-1 bg-gray-100 text-gray-500" placeholder="Word meaning?">
+						<i class="fi-rr-search text-primary cursor-pointer"></i>
 					</div>
 				</div>
 				<div class="flex">
-					<img src="../static/phone.svg" style="transform: translateY(-4rem)" >
-					<img src="../static/phone2.svg" style="transform: translateY(-4rem)" >
 				</div>
 			</div>
 		</div>
@@ -50,7 +51,7 @@
 	.info-container {
 		display: grid;
 		grid-template-columns: 1fr 1fr;
-		margin-top: 5rem;
+		margin-top: 4.6rem;
 	}
 	
 	/* left panel */
@@ -61,7 +62,7 @@
 
 	h1 {
 		line-height: 3.8rem;
-		font-size: 2.6rem;
+		font-size: 2.2rem;
 		color: #040001;
 		font-weight: 700;
 		max-width: 38rem;

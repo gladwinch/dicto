@@ -58,3 +58,7 @@
 	/* font-family: 'M PLUS Rounded 1c', sans-serif; */
 	font-family: sans-serif;
 }
+
+textarea:focus, input:focus {
+    outline: none;
+}
