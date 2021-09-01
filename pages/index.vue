@@ -8,16 +8,20 @@
 		},
 		data: () => ({
 			suggestions: [],
+			loading: false,
 			word: ""
 		}),
 		methods: {
 			async autoComplete() {
 				if(!this.word) return
+				this.loading = true
 				const { data } = await this.$axios.get(`/api/auto/word?word=${this.word}`)
 
 				if(data.success) {
 					this.suggestions = data.data
 				}
+
+				this.loading = false
 			}
 		},
 		computed: {
@@ -47,27 +51,32 @@
 						</span>.
 					</h1>
 
-					<div class="flex mt-10 p-3 px-5 flex bg-gray-100 max-w-xs rounded shadow-inner">
-						<input 
-							class="flex-1 bg-gray-100 text-gray-500" 
-							placeholder="Word meaning?"
-							@keydown="debouncedOnChange"
-							v-model="word"
-						>
-						<i class="fi-rr-search text-secondary cursor-pointer"></i>
-					</div>
+					<div class="relative max-w-xs">
+						<div class="flex mt-10 p-3 px-5 flex bg-gray-100 rounded shadow-inner">
+							<input 
+								class="flex-1 bg-gray-100 text-gray-500" 
+								placeholder="Word meaning?"
+								@keydown="debouncedOnChange"
+								v-model="word"
+							>
+							<i class="fi-rr-search text-primary cursor-pointer" v-if="!loading"></i>
+							<img src="../static/utils/loading.gif" alt="loading" v-else class="h-6 w-auto">
+						</div>
 
-					<div class="rounded overflow-hidden max-w-xs shadow-sm">
-						<div 
-							class="p-3 px-5 bg-gray-100 text-gray-500 cursor-pointer hover:bg-gray-200" 
-							v-for="text in suggestions" :key="text"
-							@click="word=text; suggestions=[]"
+						<div class="rounded overflow-hidden max-w-xs shadow-sm absolute min-w-full">
+							<div 
+								class="p-3 px-5 bg-gray-100 text-gray-500 cursor-pointer hover:bg-gray-200" 
+								v-for="text in suggestions" :key="text"
+								@click="word=text; suggestions=[]"
 
-						>
-							{{ text }}
+							>
+								{{ text }}
+							</div>
 						</div>
 					</div>
+
 				</div>
+
 
 				<div class="flex">
 				</div>
