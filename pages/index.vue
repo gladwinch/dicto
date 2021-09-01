@@ -1,9 +1,29 @@
 <script>
 	import NavBar from '../components/Navbar.vue'
+	import _debounce from 'lodash.debounce'
 
 	export default {
 		components: {
 			NavBar
+		},
+		data: () => ({
+			suggestions: [],
+			word: ""
+		}),
+		methods: {
+			async autoComplete() {
+				if(!this.word) return
+				const { data } = await this.$axios.get(`/api/auto/word?word=${this.word}`)
+
+				if(data.success) {
+					this.suggestions = data.data
+				}
+			}
+		},
+		computed: {
+			debouncedOnChange () {
+				return _debounce(this.autoComplete, 500)
+            }
 		}
 	}
 </script>
@@ -28,10 +48,27 @@
 					</h1>
 
 					<div class="flex mt-10 p-3 px-5 flex bg-gray-100 max-w-xs rounded shadow-inner">
-						<input class="flex-1 bg-gray-100 text-gray-500" placeholder="Word meaning?">
-						<i class="fi-rr-search text-primary cursor-pointer"></i>
+						<input 
+							class="flex-1 bg-gray-100 text-gray-500" 
+							placeholder="Word meaning?"
+							@keydown="debouncedOnChange"
+							v-model="word"
+						>
+						<i class="fi-rr-search text-secondary cursor-pointer"></i>
+					</div>
+
+					<div class="rounded overflow-hidden max-w-xs shadow-sm">
+						<div 
+							class="p-3 px-5 bg-gray-100 text-gray-500 cursor-pointer hover:bg-gray-200" 
+							v-for="text in suggestions" :key="text"
+							@click="word=text; suggestions=[]"
+
+						>
+							{{ text }}
+						</div>
 					</div>
 				</div>
+
 				<div class="flex">
 				</div>
 			</div>

@@ -10,13 +10,15 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.13.6",
-    "core-js": "^3.15.1",
-    "nuxt": "^2.15.7",
+    "axios": "^0.21.1",
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
+    "core-js": "^3.15.1",
     "express": "^4.17.1",
+    "lodash.debounce": "^4.0.8",
     "mongoose": "^5.13.7",
     "node-geocoder": "^3.27.0",
+    "nuxt": "^2.15.7",
     "passport": "^0.4.1",
     "passport-anonymous": "^1.0.1",
     "passport-jwt": "^4.0.0"
