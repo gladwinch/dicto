@@ -34,7 +34,7 @@
 
 <template>
 	<div>
-		<div class="px-12 py-8 slide-1">
+		<div class="py-8 slide-1">
 			<nav-bar />
 
 			<div class="info-container">
@@ -76,7 +76,6 @@
 					</div>
 
 				</div>
-
 
 				<div class="flex">
 				</div>

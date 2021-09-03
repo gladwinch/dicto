@@ -3,6 +3,4 @@ const { searchWord } = require('../controllers/auto.controller')
 
 router.get('/word', searchWord)
 
-
-
 module.exports = router
