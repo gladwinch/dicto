@@ -7,7 +7,7 @@
 		async mounted() {
             this.loading = true
             let { data } = await this.$axios.post('/api/word/definition', {
-                word: this.$route.query.w
+                word: this.$route.query.word
             })
 
             loading: false
@@ -21,13 +21,15 @@
 </script>
 
 <template>
-    <div class="px-36 py-12">
-		<h1>Definition</h1>
+    <div>
+        <div class="px-36 py-12">
+            <h1>Definition</h1>
 
-        <h2 class="mt-8 capitalize text-secondary">{{this.$route.query.w}}: </h2>
-        <p v-if="loading">loading...</p>
-        <p v-else class="text-gray-600">{{this.definition}}</p>
-	</div>
+            <h2 class="mt-8 capitalize text-secondary">{{this.$route.query.word}}: </h2>
+            <p v-if="loading">loading...</p>
+            <p v-else class="text-gray-600">{{this.definition}}</p>
+        </div>
+    </div>
 </template>
 
 <style>

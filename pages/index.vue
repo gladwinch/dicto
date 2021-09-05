@@ -22,6 +22,13 @@
 				}
 
 				this.loading = false
+			},
+			searchWord() {
+				if(!this.word) return 
+
+				this.$router.push({
+					path: `/definition?word=${this.word}`
+				})
 			}
 		},
 		computed: {
@@ -34,7 +41,7 @@
 
 <template>
 	<div>
-		<div class="py-8 slide-1">
+		<div class="px-12 py-8 slide-1">
 			<nav-bar />
 
 			<div class="info-container">
@@ -53,13 +60,15 @@
 
 					<div class="relative max-w-xs">
 						<div class="flex mt-10 p-3 px-5 flex bg-gray-100 rounded shadow-inner">
-							<input 
-								class="flex-1 bg-gray-100 text-gray-500" 
-								placeholder="Word meaning?"
-								@keydown="debouncedOnChange"
-								v-model="word"
-							>
-							<i class="fi-rr-search text-primary cursor-pointer" v-if="!loading"></i>
+							<form @submit="searchWord" class="flex-1">
+								<input 
+									class="bg-gray-100 text-gray-500" 
+									placeholder="Word meaning?"
+									@keydown="debouncedOnChange"
+									v-model="word"
+								>
+							</form>
+							<i @click="searchWord" class="fi-rr-search text-primary cursor-pointer" v-if="!loading"></i>
 							<img src="../static/utils/loading.gif" alt="loading" v-else class="h-6 w-auto">
 						</div>
 
@@ -77,7 +86,7 @@
 
 				</div>
 
-				<div class="flex">
+				<div class="flex right-panel p-26">
 				</div>
 			</div>
 		</div>
@@ -114,4 +123,19 @@
 	}
 
 	/* ******* */
+
+	@media only screen and (max-width: 800px) {
+		.info-container {
+			grid-template-columns: 1fr;
+		}
+
+		.right-panel {
+			display: hidden;
+		}
+
+		h1 {
+			font-size: 1.5rem;
+			line-height: 2.2rem
+		}
+	}
 </style>
