@@ -8,11 +8,11 @@
            display: block !important;
         }
         </style>
-        <title>OVAL | meaning in the Cambridge English Dictionary</title>
+        <title>PATHETIC | meaning in the Cambridge English Dictionary</title>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta name="description" content="oval definition: 1. shaped like a circle that is flattened so that it is like an egg or an ellipse:  2. an oval&hellip;. Learn more." />
-    <meta name="keywords" content="oval definition, dictionary, english, british, american, business, british english, thesaurus, define oval, oval meaning, what is oval, spelling, conjugation, audio pronunciation, free, online, english." />
+    <meta name="description" content="pathetic definition: 1. causing feelings of sadness, sympathy, or sometimes lack of respect, especially because a person&hellip;. Learn more." />
+    <meta name="keywords" content="pathetic definition, dictionary, english, british, american, business, british english, thesaurus, define pathetic, pathetic meaning, what is pathetic, spelling, conjugation, audio pronunciation, free, online, english." />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name='viewport' content="width=device-width,minimum-scale=1,initial-scale=1"/>
             
@@ -51,34 +51,34 @@
             
     
         
-        <meta property="og:url" content="https://dictionary.cambridge.org/dictionary/english/oval" />
+        <meta property="og:url" content="https://dictionary.cambridge.org/dictionary/english/pathetic" />
 
-                    <link rel="canonical" href="https://dictionary.cambridge.org/dictionary/english/oval" />
+                    <link rel="canonical" href="https://dictionary.cambridge.org/dictionary/english/pathetic" />
 
-                                                                    <link rel="alternate" hreflang="en" href="https://dictionary.cambridge.org/dictionary/english/oval"/>
-                                                                <link rel="alternate" hreflang="en-US" href="https://dictionary.cambridge.org/us/dictionary/english/oval"/>
-                                    <link rel="alternate" hreflang="en-MX" href="https://dictionary.cambridge.org/us/dictionary/english/oval"/>
-                                    <link rel="alternate" hreflang="en-PH" href="https://dictionary.cambridge.org/us/dictionary/english/oval"/>
-                                    <link rel="alternate" hreflang="en-BR" href="https://dictionary.cambridge.org/us/dictionary/english/oval"/>
-                                    <link rel="alternate" hreflang="en-CO" href="https://dictionary.cambridge.org/us/dictionary/english/oval"/>
-                                                                <link rel="alternate" hreflang="es" href="https://dictionary.cambridge.org/es/diccionario/ingles/oval"/>
-                                    <link rel="alternate" hreflang="es-ES" href="https://dictionary.cambridge.org/es/diccionario/ingles/oval"/>
-                                                                <link rel="alternate" hreflang="es-419" href="https://dictionary.cambridge.org/es-LA/dictionary/english/oval"/>
-                                                                <link rel="alternate" hreflang="ru" href="https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/oval"/>
-                                                                <link rel="alternate" hreflang="pt" href="https://dictionary.cambridge.org/pt/dicionario/ingles/oval"/>
-                                    <link rel="alternate" hreflang="pt-BR" href="https://dictionary.cambridge.org/pt/dicionario/ingles/oval"/>
-                                                                <link rel="alternate" hreflang="de" href="https://dictionary.cambridge.org/de/worterbuch/englisch/oval"/>
-                                                                <link rel="alternate" hreflang="fr" href="https://dictionary.cambridge.org/fr/dictionnaire/anglais/oval"/>
-                                                                <link rel="alternate" hreflang="it" href="https://dictionary.cambridge.org/it/dizionario/inglese/oval"/>
-                                                                <link rel="alternate" hreflang="zh-Hans" href="https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD/oval"/>
-                                                                <link rel="alternate" hreflang="zh-Hant" href="https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E/oval"/>
-                                                                <link rel="alternate" hreflang="pl" href="https://dictionary.cambridge.org/pl/dictionary/english/oval"/>
-                                                                <link rel="alternate" hreflang="ko" href="https://dictionary.cambridge.org/ko/%EC%82%AC%EC%A0%84/%EC%98%81%EC%96%B4/oval"/>
-                                                                <link rel="alternate" hreflang="tr" href="https://dictionary.cambridge.org/tr/s%C3%B6zl%C3%BCk/ingilizce/oval"/>
-                                                                <link rel="alternate" hreflang="ja" href="https://dictionary.cambridge.org/ja/dictionary/english/oval"/>
-                                                                <link rel="alternate" hreflang="vi" href="https://dictionary.cambridge.org/vi/dictionary/english/oval"/>
+                                                                    <link rel="alternate" hreflang="en" href="https://dictionary.cambridge.org/dictionary/english/pathetic"/>
+                                                                <link rel="alternate" hreflang="en-US" href="https://dictionary.cambridge.org/us/dictionary/english/pathetic"/>
+                                    <link rel="alternate" hreflang="en-MX" href="https://dictionary.cambridge.org/us/dictionary/english/pathetic"/>
+                                    <link rel="alternate" hreflang="en-PH" href="https://dictionary.cambridge.org/us/dictionary/english/pathetic"/>
+                                    <link rel="alternate" hreflang="en-BR" href="https://dictionary.cambridge.org/us/dictionary/english/pathetic"/>
+                                    <link rel="alternate" hreflang="en-CO" href="https://dictionary.cambridge.org/us/dictionary/english/pathetic"/>
+                                                                <link rel="alternate" hreflang="es" href="https://dictionary.cambridge.org/es/diccionario/ingles/pathetic"/>
+                                    <link rel="alternate" hreflang="es-ES" href="https://dictionary.cambridge.org/es/diccionario/ingles/pathetic"/>
+                                                                <link rel="alternate" hreflang="es-419" href="https://dictionary.cambridge.org/es-LA/dictionary/english/pathetic"/>
+                                                                <link rel="alternate" hreflang="ru" href="https://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/pathetic"/>
+                                                                <link rel="alternate" hreflang="pt" href="https://dictionary.cambridge.org/pt/dicionario/ingles/pathetic"/>
+                                    <link rel="alternate" hreflang="pt-BR" href="https://dictionary.cambridge.org/pt/dicionario/ingles/pathetic"/>
+                                                                <link rel="alternate" hreflang="de" href="https://dictionary.cambridge.org/de/worterbuch/englisch/pathetic"/>
+                                                                <link rel="alternate" hreflang="fr" href="https://dictionary.cambridge.org/fr/dictionnaire/anglais/pathetic"/>
+                                                                <link rel="alternate" hreflang="it" href="https://dictionary.cambridge.org/it/dizionario/inglese/pathetic"/>
+                                                                <link rel="alternate" hreflang="zh-Hans" href="https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD/pathetic"/>
+                                                                <link rel="alternate" hreflang="zh-Hant" href="https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E/pathetic"/>
+                                                                <link rel="alternate" hreflang="pl" href="https://dictionary.cambridge.org/pl/dictionary/english/pathetic"/>
+                                                                <link rel="alternate" hreflang="ko" href="https://dictionary.cambridge.org/ko/%EC%82%AC%EC%A0%84/%EC%98%81%EC%96%B4/pathetic"/>
+                                                                <link rel="alternate" hreflang="tr" href="https://dictionary.cambridge.org/tr/s%C3%B6zl%C3%BCk/ingilizce/pathetic"/>
+                                                                <link rel="alternate" hreflang="ja" href="https://dictionary.cambridge.org/ja/dictionary/english/pathetic"/>
+                                                                <link rel="alternate" hreflang="vi" href="https://dictionary.cambridge.org/vi/dictionary/english/pathetic"/>
                             
-                                                            <link rel="amphtml" href="https://dictionary.cambridge.org/amp/english/oval" />
+                                                            <link rel="amphtml" href="https://dictionary.cambridge.org/amp/english/pathetic" />
                                         
     
             
@@ -90,8 +90,8 @@
     <link rel="shortcut icon" type="image/x-icon" href="https://dictionary.cambridge.org/external/images/favicon.ico?version=5.0.185"/>
     <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://dictionary.cambridge.org/external/images/apple-touch-icon-precomposed.png?version=5.0.185"/>
     <link rel="preload" href="/external/fonts/cdoicons.woff?version=5.0.185" as="font" crossorigin>
-    <meta property="og:title" content="oval" />
-    <meta property="og:description" content="1. shaped like a circle that is flattened so that it is like an egg or an&hellip;" />
+    <meta property="og:title" content="pathetic" />
+    <meta property="og:description" content="1. causing feelings of sadness, sympathy, or sometimes lack of respect&hellip;" />
     <meta property="og:image" content="https://dictionary.cambridge.org/external/images/og-image.png" />
     <meta property="og:type" content="article" />
     <meta property="fb:app_id" content="118775618133878" />
@@ -151,7 +151,7 @@ var pl_p = localStorage.pl;
             iaw.setPageLabels([ "lcp", "resp", "wprod" ]);
             iaw.setPageLayout("default_moreslots");
 
-            var pageCriteria = { "pc": "dictionary", "pt": "entry", "sfr": "cdo_dict_english", "ptl": "entry-lcp", "dc": "english", "ei": "oval", "c": [ "science_geographic_locales" ], "t": "mathematics-and-arithmetic", "l": "en", "tc": "resp" };
+            var pageCriteria = { "pc": "dictionary", "pt": "entry", "sfr": "cdo_dict_english", "ptl": "entry-lcp", "dc": "english", "ei": "pathetic", "c": [ "people_society_religion", "arts_entertainment_media", "shopping_consumer_resources" ], "t": "good-and-bad", "l": "en", "tc": "resp" };
             if(pl_p) pageCriteria.alc_pr = pl_p.split(",");
 
             iaw.setPageCriteria(pageCriteria);
@@ -169,7 +169,7 @@ var pl_p = localStorage.pl;
             
     <script id="amp-access" type="application/json">
         {
-            "authorization": "https://dictionary.cambridge.org/auth/info?rid=READER_ID&url=CANONICAL_URL&ref=DOCUMENT_REFERRER&type=ENTRY_TRANSLATE&v1=english&v2=oval&v3=&v4=english&_=RANDOM",
+            "authorization": "https://dictionary.cambridge.org/auth/info?rid=READER_ID&url=CANONICAL_URL&ref=DOCUMENT_REFERRER&type=ENTRY_TRANSLATE&v1=english&v2=pathetic&v3=&v4=english&_=RANDOM",
             "noPingback": true,
             "login": {
                 "sign-in": "https://dictionary.cambridge.org/auth/signin?rid=READER_ID",
@@ -407,7 +407,7 @@ var pl_p = localStorage.pl;
                     "autocomplete": false,
                     "datasetOpen": false,
                     "term": "",
-                    "lookupWord": "oval"
+                    "lookupWord": "pathetic"
                 }
             </script>
         </amp-state>
@@ -428,7 +428,7 @@ var pl_p = localStorage.pl;
                     name="q" autocomplete="off" aria-required="true" aria-invalid="false"
                     class="ft fon pr pt0 hbr-20 lc1 lp-10 lpl-15 cdo-search-input"
                     id="searchword" [placeholder]='stateSearch.dataset_search'
-                    value="oval" [value]="stateSearch.lookupWord" maxlength="100"
+                    value="pathetic" [value]="stateSearch.lookupWord" maxlength="100"
                     placeholder="Search English"
                     on="input-debounced: AMP.setState({ stateSearch: { term: event.value, autocomplete: (stateSearch.dataset != 'wordlists' && event.value.length) > 1 ? true : false } }), searchAutoComplete.changeToLayoutContainer();
                          tap:AMP.setState({ stateSearch: { autocomplete: stateSearch.dataset != 'wordlists' && stateSearch.term.length > 1 } })" />
@@ -654,7 +654,7 @@ var pl_p = localStorage.pl;
 
 
     
-                                                                                                                    
+                                                                                                                                                                                                                                    
 
 <div class="pr cc_pgwn">
 
@@ -677,13 +677,15 @@ var pl_p = localStorage.pl;
                         <div itemprop="author" itemscope itemtype="http://schema.org/Organization">
             <meta itemprop="name" content='Cambridge Dictionary' />
         </div>
-                <meta itemprop="headline" content="oval definition: 1. shaped like a circle that is flattened so that it is like an egg or an ellipse:  2. an oval&hellip;. Learn more." />
+                <meta itemprop="headline" content="pathetic definition: 1. causing feelings of sadness, sympathy, or sometimes lack of respect, especially because a person&hellip;. Learn more." />
                 <meta itemprop="copyrightHolder" content="&copy; Cambridge University Press" />
                 <meta itemprop="copyrightYear" content="2021" />
                 <meta itemprop="inLanguage" content="en" />
-                                                                            <meta itemprop="genre" content="Geometrical shapes" />
+                                                                            <meta itemprop="genre" content="Not of good quality" />
+                                            <meta itemprop="genre" content="Useless and futile" />
+                                            <meta itemprop="genre" content="Sympathy &amp; compassion" />
                                     
-                                                    <h1 class="ti fs fs12 lmb-0 hw superentry">Meaning of <b  class='tb ttn'>oval</b> in English</h1>
+                                                    <h1 class="ti fs fs12 lmb-0 hw superentry">Meaning of <b  class='tb ttn'>pathetic</b> in English</h1>
 
                     
                 
@@ -691,38 +693,40 @@ var pl_p = localStorage.pl;
 <div class="pr x lbb lb-cm">
     <div class="hfr lpb-2">
                                     <div class="pr hdib i i-facebook lp-5 lmr-10">
-            <a class="pa p0" onclick="ga('send', 'event', 'share_this_entry', 'facebook');" target="_blank" rel="noopener" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fdictionary.cambridge.org%2Fdictionary%2Fenglish%2Foval&t=" title="Share on Facebook"></a>
+            <a class="pa p0" onclick="ga('send', 'event', 'share_this_entry', 'facebook');" target="_blank" rel="noopener" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fdictionary.cambridge.org%2Fdictionary%2Fenglish%2Fpathetic&t=" title="Share on Facebook"></a>
         </div>
         <div class="pr hdib i i-twitter lp-5 lmr-10">
-            <a class="pa p0" onclick="ga('send', 'event', 'share_this_entry', 'twitter');" target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdictionary.cambridge.org%2Fdictionary%2Fenglish%2Foval&text=" title="Share on Twitter"></a>
+            <a class="pa p0" onclick="ga('send', 'event', 'share_this_entry', 'twitter');" target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdictionary.cambridge.org%2Fdictionary%2Fenglish%2Fpathetic&text=" title="Share on Twitter"></a>
         </div>
         </div>
 </div>
-            <div class="di-body"><div class="entry"><div class="entry-body"> <div class="pr entry-body__el"><div class="cid" id="cald4-1"></div><div class="pos-header dpos-h"><div class="di-title"><span class="headword hdb tw-bw dhw dpos-h_hw "><span class="hw dhw">oval</span></span></div><div class="posgram dpos-g hdib lmr-5"><span class="pos dpos" title="A word that describes a noun or pronoun.">adjective</span></div> <div  ></div><span class="uk dpron-i "><span class="region dreg">uk</span><span class="daud">        
+            <div class="di-body"><div class="entry"><div class="entry-body"> <div class="pr entry-body__el"><div class="cid" id="cald4-1"></div><div class="pos-header dpos-h"><div class="di-title"><span class="headword hdb tw-bw dhw dpos-h_hw "><span class="hw dhw">pathetic</span></span></div><div class="posgram dpos-g hdib lmr-5"><span class="pos dpos" title="A word that describes a noun or pronoun.">adjective</span></div> <div  ></div><span class="uk dpron-i "><span class="region dreg">uk</span><span class="daud">        
     <amp-audio layout="nodisplay" preload="none" id="ampaudio1" controlsList="nodownload">
         <div class="hdib" fallback>
             <p>Your browser doesn't support HTML5 audio</p>
         </div>
-        <source type="audio/mpeg" src="/media/english/uk_pron/u/uko/ukout/ukoutsh029.mp3"/>
-        <source type="audio/ogg" src="/media/english/uk_pron_ogg/u/uko/ukout/ukoutsh029.ogg"/>
+        <source type="audio/mpeg" src="/media/english/uk_pron/u/ukp/ukpat/ukpatch020.mp3"/>
+        <source type="audio/ogg" src="/media/english/uk_pron_ogg/u/ukp/ukpat/ukpatch020.ogg"/>
     </amp-audio>
     <div title="Listen to the British English pronunciation" class="i i-volume-up c_aud htc hdib hp hv-1 fon tcu tc-bd lmr-10 lpt-3" on="tap: ampaudio1.play" role="button" tabindex="0">
     </div>
-</span><span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈəʊ.v<span class="sp dsp">ə</span>l</span>/</span></span> <span class="us dpron-i "><span class="region dreg">us</span><span class="daud">        
+</span><span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">pəˈθet.ɪk</span>/</span></span> <span class="us dpron-i "><span class="region dreg">us</span><span class="daud">        
     <amp-audio layout="nodisplay" preload="none" id="ampaudio2" controlsList="nodownload">
         <div class="hdib" fallback>
             <p>Your browser doesn't support HTML5 audio</p>
         </div>
-        <source type="audio/mpeg" src="/media/english/us_pron/e/eus/eus75/eus75387.mp3"/>
-        <source type="audio/ogg" src="/media/english/us_pron_ogg/e/eus/eus75/eus75387.ogg"/>
+        <source type="audio/mpeg" src="/media/english/us_pron/p/pat/pathe/pathetic.mp3"/>
+        <source type="audio/ogg" src="/media/english/us_pron_ogg/p/pat/pathe/pathetic.ogg"/>
     </amp-audio>
     <div title="Listen to the American English pronunciation" class="i i-volume-up c_aud htc hdib hp hv-1 fon tcu tc-bd lmr-10 lpt-3" on="tap: ampaudio2.play" role="button" tabindex="0">
     </div>
-</span><span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈoʊ.v<span class="sp dsp">ə</span>l</span>/</span></span></div><div class="pos-body">
+</span><span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">pəˈθet̬.ɪk</span>/</span></span></div><div class="pos-body">
 
-                        <div class="pr dsense dsense-noh"><div class="cid" id="cald4-1-1"></div> <div class="sense-body dsense_b"><div class="def-block ddef_block " data-wl-senseid="ID_00022777_01">
+                        <div class="pr dsense "><div class="cid" id="cald4-1-1"></div> <h3 class="dsense_h"><span class="hw dsense_hw">pathetic</span> <span class="pos dsense_pos" title="A word that describes a noun or pronoun.">adjective</span> <span class="guideword dsense_gw" title="Guide word: helps you find the right meaning when a word has more than one meaning">
+            (<span>SAD</span>)
+      </span></h3> <div class="sense-body dsense_b"><div class="def-block ddef_block " data-wl-senseid="ID_00023453_01">
                         <div class="dwl hax">
-	        <a amp-access="loggedIn" amp-access-hide class="dwla wordlist-add-button" title="Add this meaning to a word list" on="tap:AMP.setState({ stateGlobal: { wlSenseId: 'ID_00022777_01' } }), sidebarWordList.open">
+	        <a amp-access="loggedIn" amp-access-hide class="dwla wordlist-add-button" title="Add this meaning to a word list" on="tap:AMP.setState({ stateGlobal: { wlSenseId: 'ID_00023453_01' } }), sidebarWordList.open">
             <i class="i i-plus" aria-hidden="true"></i>
             <i class="i i-list-ul"></i>
         </a>
@@ -731,17 +735,155 @@ var pl_p = localStorage.pl;
             <i class="i i-list-ul"></i>
         </a>
 	    </div>
-                <div class="ddef_h"><span class="def-info ddef-info"><span class="epp-xref dxref B2">B2</span> </span><div class="def ddef_d db"><a class="query" href="https://dictionary.cambridge.org/dictionary/english/shaped" title="shaped">shaped</a> like a <a class="query" href="https://dictionary.cambridge.org/dictionary/english/circle" title="circle">circle</a> that is <span class="nondv-xref dnondv-xref"><a class="query" href="https://dictionary.cambridge.org/dictionary/english/flatten" title="flattened">flattened</a></span> so that it is like an <a class="query" href="https://dictionary.cambridge.org/dictionary/english/egg" title="egg">egg</a> or an <a class="query" href="https://dictionary.cambridge.org/dictionary/english/ellipse" title="ellipse">ellipse</a>: </div> </div><div class="def-body ddef_b"><div class="examp dexamp"><span class="eg deg">an oval <a class="query" href="https://dictionary.cambridge.org/dictionary/english/mirror" title="mirror">mirror</a></span></div><div class="examp dexamp"> <span class="eg deg">an oval <a class="query" href="https://dictionary.cambridge.org/dictionary/english/face" title="face">face</a></span></div> <div class="xref compare hax dxref-w lmt-25"><strong class="xref-title dxref-t">Compare</strong><div class="lcs lmt-10 lmb-20">
+                <div class="ddef_h"><span class="def-info ddef-info"><span class="epp-xref dxref C2">C2</span> </span><div class="def ddef_d db"><a class="query" href="https://dictionary.cambridge.org/dictionary/english/cause" title="causing">causing</a> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/feeling" title="feelings">feelings</a> of <a class="query" href="https://dictionary.cambridge.org/dictionary/english/sadness" title="sadness">sadness</a>, <a class="query" href="https://dictionary.cambridge.org/dictionary/english/sympathy" title="sympathy">sympathy</a>, or sometimes <a class="query" href="https://dictionary.cambridge.org/dictionary/english/lack" title="lack">lack</a> of <a class="query" href="https://dictionary.cambridge.org/dictionary/english/respect" title="respect">respect</a>, <a class="query" href="https://dictionary.cambridge.org/dictionary/english/especially" title="especially">especially</a> because a <a class="query" href="https://dictionary.cambridge.org/dictionary/english/person" title="person">person</a> or an <a class="query" href="https://dictionary.cambridge.org/dictionary/english/animal" title="animal">animal</a> is <a class="query" href="https://dictionary.cambridge.org/dictionary/english/suffering" title="suffering">suffering</a>: </div> </div><div class="def-body ddef_b"><div class="examp dexamp"><span class="eg deg">The <a class="query" href="https://dictionary.cambridge.org/dictionary/english/refugee" title="refugees">refugees</a> were a pathetic <span class="b db"><a class="query" href="https://dictionary.cambridge.org/dictionary/english/sight" title="sight">sight</a></span> - <a class="query" href="https://dictionary.cambridge.org/dictionary/english/starving" title="starving">starving</a>, <a class="query" href="https://dictionary.cambridge.org/dictionary/english/frightened" title="frightened">frightened</a> and <a class="query" href="https://dictionary.cambridge.org/dictionary/english/cold" title="cold">cold</a>.</span></div><div class="examp dexamp"> <span class="eg deg">After the <a class="query" href="https://dictionary.cambridge.org/dictionary/english/accident" title="accident">accident</a> he <a class="query" href="https://dictionary.cambridge.org/dictionary/english/became" title="became">became</a> a pathetic <span class="b db"><a class="query" href="https://dictionary.cambridge.org/dictionary/english/figure" title="figure">figure</a></span>, a <a class="query" href="https://dictionary.cambridge.org/dictionary/english/shadow" title="shadow">shadow</a> of his <a class="query" href="https://dictionary.cambridge.org/dictionary/english/former" title="former">former</a> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/self" title="self">self</a>.</span></div> <div class="xref see_also hax dxref-w lmt-25"><strong class="xref-title dxref-t">See also</strong><div class="lcs lmt-10 lmb-20">
 
-                <div class="item lc lc1 lpb-10 lpr-10" data-position="1"><a href="/dictionary/english/elliptical" title="meaning of elliptical"><span class="x-h dx-h">elliptical</span></a></div></div></div> </div></div>
-                    <div class="daccord"><amp-accordion>
-                                    <section  expanded  >
-                                    <header class="ca_h daccord_h">
-                                            <i class="i i-plus ca_hi"></i>
-                                        More examples
-                                    </header><ul class="hul-u hul-u0 ca_b daccord_b"><li class="eg dexamp hax">The <a class="query" href="https://dictionary.cambridge.org/dictionary/english/plant" title="plant">plant</a> has oval <a class="query" href="https://dictionary.cambridge.org/dictionary/english/green" title="green">green</a> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/leaves" title="leaves">leaves</a> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/marbled" title="marbled">marbled</a> with brownish-purple.</li><li class="eg dexamp hax">Our <a class="query" href="https://dictionary.cambridge.org/dictionary/english/table" title="table">table</a> is oval in <a class="query" href="https://dictionary.cambridge.org/dictionary/english/shape" title="shape">shape</a>.</li></ul>
-                                    </section>
-                            </amp-accordion></div></div>         
+                <div class="item lc lc1 lpb-10 lpr-10" data-position="1"><a href="/dictionary/english/pathos" title="meaning of pathos"><span class="x-h dx-h">pathos</span> </a><span class="x-lab dx-lab"><span class="usage" title="Used in books and poems, and not in ordinary conversation.">literary</span></span></div></div></div> </div></div></div>         
+        <div class="smartt daccord">
+            <amp-accordion disable-session-states>
+                    <section  expanded  >
+                    <header class="ca_h daccord_h">
+                        <i class="i i-plus ca_hi" aria-hidden="true"></i>
+                        SMART Vocabulary: related words and phrases                    </header>
+                    <div class="ca_b had daccord_b daccord_l">
+                        <div class="daccord_lt">
+                            <a href="https://dictionary.cambridge.org/topics/kind-and-unkind/sympathy-and-compassion/" title="Words and phrases related to pathetic in the topic Sympathy &amp; compassion">Sympathy & compassion</a>
+                        </div>
+
+                        <div class="daccord_lb">
+                            
+                            <ul class="hul-u hul-u0 hax lmb-10 lcs">
+                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                        <a title="a good listener idiom" class="topic_0  odd " href=" https://dictionary.cambridge.org/dictionary/english/a-good-listener?topic=sympathy-and-compassion ">
+                                            <span class="results"><span class="base"><span class="phrase haf">a good listener</span></span> <span class="pos">idiom</span> </span>
+                                        </a>
+                                    </li>
+                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                        <a title="a shoulder to cry on idiom" class="topic_0  even " href=" https://dictionary.cambridge.org/dictionary/english/a-shoulder-to-cry-on?topic=sympathy-and-compassion ">
+                                            <span class="results"><span class="base"><span class="phrase haf">a shoulder to cry on</span></span> <span class="pos">idiom</span> </span>
+                                        </a>
+                                    </li>
+                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                        <a title="aw" class="topic_0  odd " href=" https://dictionary.cambridge.org/dictionary/english/aw?topic=sympathy-and-compassion ">
+                                            <span class="results"><span class="base"><span class="hw haf">aw</span></span></span>
+                                        </a>
+                                    </li>
+                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                        <a title="bad/hard/tough luck! idiom" class="topic_0  even " href=" https://dictionary.cambridge.org/dictionary/english/bad-hard-tough-luck?topic=sympathy-and-compassion ">
+                                            <span class="results"><span class="base"><span class="phrase haf">bad/hard/tough luck!</span></span> <span class="pos">idiom</span> </span>
+                                        </a>
+                                    </li>
+                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                        <a title="better luck next time idiom" class="topic_0  odd " href=" https://dictionary.cambridge.org/dictionary/english/better-luck-next-time?topic=sympathy-and-compassion ">
+                                            <span class="results"><span class="base"><span class="phrase haf">better luck next time</span></span> <span class="pos">idiom</span> </span>
+                                        </a>
+                                    </li>
+                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                        <a title="hard luck! idiom" class="topic_1  even " href=" https://dictionary.cambridge.org/dictionary/english/hard-luck?topic=sympathy-and-compassion ">
+                                            <span class="results"><span class="base"><span class="phrase haf">hard luck!</span></span> <span class="pos">idiom</span> </span>
+                                        </a>
+                                    </li>
+                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                        <a title="hard/tough cheese! idiom" class="topic_1  odd " href=" https://dictionary.cambridge.org/dictionary/english/hard-tough-cheese?topic=sympathy-and-compassion ">
+                                            <span class="results"><span class="base"><span class="phrase haf">hard/tough cheese!</span></span> <span class="pos">idiom</span> </span>
+                                        </a>
+                                    </li>
+                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                        <a title="heart-wrenching" class="topic_1  even " href=" https://dictionary.cambridge.org/dictionary/english/heart-wrenching?topic=sympathy-and-compassion ">
+                                            <span class="results"><span class="base"><span class="hw haf">heart-wrenching</span></span></span>
+                                        </a>
+                                    </li>
+                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                        <a title="heart-wrenchingly" class="topic_1  odd " href=" https://dictionary.cambridge.org/dictionary/english/heart-wrenchingly?topic=sympathy-and-compassion ">
+                                            <span class="results"><span class="base"><span class="hw haf">heart-wrenchingly</span></span></span>
+                                        </a>
+                                    </li>
+                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                        <a title="heartrending" class="topic_1  even " href=" https://dictionary.cambridge.org/dictionary/english/heartrending?topic=sympathy-and-compassion ">
+                                            <span class="results"><span class="base"><span class="hw haf">heartrending</span></span></span>
+                                        </a>
+                                    </li>
+                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                        <a title="pitifully" class="topic_2  odd " href=" https://dictionary.cambridge.org/dictionary/english/pitifully?topic=sympathy-and-compassion ">
+                                            <span class="results"><span class="base"><span class="hw haf">pitifully</span></span></span>
+                                        </a>
+                                    </li>
+                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                        <a title="pitifulness" class="topic_2  even " href=" https://dictionary.cambridge.org/dictionary/english/pitifulness?topic=sympathy-and-compassion ">
+                                            <span class="results"><span class="base"><span class="hw haf">pitifulness</span></span></span>
+                                        </a>
+                                    </li>
+                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                        <a title="pity" class="topic_2  odd " href=" https://dictionary.cambridge.org/dictionary/english/pity?topic=sympathy-and-compassion ">
+                                            <span class="results"><span class="base"><span class="hw haf">pity</span></span></span>
+                                        </a>
+                                    </li>
+                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                        <a title="poor" class="topic_2  even " href=" https://dictionary.cambridge.org/dictionary/english/poor?topic=sympathy-and-compassion ">
+                                            <span class="results"><span class="base"><span class="hw haf">poor</span></span></span>
+                                        </a>
+                                    </li>
+                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                        <a title="relate" class="topic_3  odd " href=" https://dictionary.cambridge.org/dictionary/english/relate?topic=sympathy-and-compassion ">
+                                            <span class="results"><span class="base"><span class="hw haf">relate</span></span></span>
+                                        </a>
+                                    </li>
+                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                        <a title="relate to sb" class="topic_2  even " href=" https://dictionary.cambridge.org/dictionary/english/relate-to-sb?topic=sympathy-and-compassion ">
+                                            <span class="results"><span class="base"><span class="phrase haf">relate to <span class="obj">sb</span></span></span></span>
+                                        </a>
+                                    </li>
+                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                        <a title="sensitivity" class="topic_3  odd " href=" https://dictionary.cambridge.org/dictionary/english/sensitivity?topic=sympathy-and-compassion ">
+                                            <span class="results"><span class="base"><span class="hw haf">sensitivity</span></span></span>
+                                        </a>
+                                    </li>
+                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                        <a title="shoulder" class="topic_3  even " href=" https://dictionary.cambridge.org/dictionary/english/shoulder?topic=sympathy-and-compassion ">
+                                            <span class="results"><span class="base"><span class="hw haf">shoulder</span></span></span>
+                                        </a>
+                                    </li>
+                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                        <a title="sympathetic" class="topic_3  odd " href=" https://dictionary.cambridge.org/dictionary/english/sympathetic?topic=sympathy-and-compassion ">
+                                            <span class="results"><span class="base"><span class="hw haf">sympathetic</span></span></span>
+                                        </a>
+                                    </li>
+                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
+                                        <a title="sympathy" class="topic_3  even " href=" https://dictionary.cambridge.org/dictionary/english/sympathy?topic=sympathy-and-compassion ">
+                                            <span class="results"><span class="base"><span class="hw haf">sympathy</span></span></span>
+                                        </a>
+                                    </li>
+                                                            </ul>
+
+                                                            <a href="https://dictionary.cambridge.org/topics/kind-and-unkind/sympathy-and-compassion/" class="had tb" title="Words and phrases related to pathetic in the topic Sympathy &amp; compassion">See more results »</a>
+                                                    </div>
+
+                                            </div>
+                    </section>
+            </amp-accordion>
+        </div>
+                                  <div class="bb hax">
+    <a class="hdb lp-20" href="/shop/vocabulary/advanced?utm_source=cdo&utm_medium=ringlinks&utm_campaign=ringlinks" target="_blank">
+        <i class="i i-arrow-right ibd tb hfr lmt--10 lmr--20" aria-hidden="true">&#160;</i>
+                  <p class="tb">Want to learn more?</p>
+          <p>Improve your vocabulary with <span class="tb">English Vocabulary in Use</span> from Cambridge.<br/>Learn the words you need to communicate with confidence.</p>
+            </a>
+</div>
+             </div>
+
+                                <div class="pr dsense "><div class="cid" id="cald4-1-2"></div> <h3 class="dsense_h"><span class="hw dsense_hw">pathetic</span> <span class="pos dsense_pos" title="A word that describes a noun or pronoun.">adjective</span> <span class="guideword dsense_gw" title="Guide word: helps you find the right meaning when a word has more than one meaning">
+            (<span>UNSUCCESSFUL</span>)
+      </span></h3> <div class="sense-body dsense_b"><div class="def-block ddef_block " data-wl-senseid="ID_00023453_02">
+                        <div class="dwl hax">
+	        <a amp-access="loggedIn" amp-access-hide class="dwla wordlist-add-button" title="Add this meaning to a word list" on="tap:AMP.setState({ stateGlobal: { wlSenseId: 'ID_00023453_02' } }), sidebarWordList.open">
+            <i class="i i-plus" aria-hidden="true"></i>
+            <i class="i i-list-ul"></i>
+        </a>
+        <a amp-access="NOT loggedIn" class="dwla wordlist-add-button" title="Add this meaning to a word list" on="tap:amp-access.login-sign-in">
+            <i class="i i-plus" aria-hidden="true"></i>
+            <i class="i i-list-ul"></i>
+        </a>
+	    </div>
+                <div class="ddef_h"><span class="def-info ddef-info"><span class="epp-xref dxref C2">C2</span> <span class="lab dlab"><span class="usage dusage">disapproving</span></span></span> <div class="def ddef_d db"><a class="query" href="https://dictionary.cambridge.org/dictionary/english/unsuccessful" title="unsuccessful">unsuccessful</a> or <a class="query" href="https://dictionary.cambridge.org/dictionary/english/showing" title="showing">showing</a> no <a class="query" href="https://dictionary.cambridge.org/dictionary/english/ability" title="ability">ability</a>, <a class="query" href="https://dictionary.cambridge.org/dictionary/english/effort" title="effort">effort</a>, or <a class="query" href="https://dictionary.cambridge.org/dictionary/english/brave" title="bravery">bravery</a>, so that <a class="query" href="https://dictionary.cambridge.org/dictionary/english/people" title="people">people</a> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/feel" title="feel">feel</a> no <a class="query" href="https://dictionary.cambridge.org/dictionary/english/respect" title="respect">respect</a> : </div> </div><div class="def-body ddef_b"><div class="examp dexamp"><span class="eg deg">a pathetic <a class="query" href="https://dictionary.cambridge.org/dictionary/english/attempt" title="attempt">attempt</a>/<a class="query" href="https://dictionary.cambridge.org/dictionary/english/joke" title="joke">joke</a>/<a class="query" href="https://dictionary.cambridge.org/dictionary/english/excuse" title="excuse">excuse</a></span></div><div class="examp dexamp"> <span class="eg deg">Are you <a class="query" href="https://dictionary.cambridge.org/dictionary/english/telling" title="telling">telling</a> me you're <a class="query" href="https://dictionary.cambridge.org/dictionary/english/frightened" title="frightened">frightened</a> to <a class="query" href="https://dictionary.cambridge.org/dictionary/english/speak" title="speak">speak</a> to her? Don't be so pathetic!</span></div> </div></div></div>         
         <div class="smartt daccord">
             <amp-accordion disable-session-states>
                     <section  >
@@ -750,353 +892,195 @@ var pl_p = localStorage.pl;
                         SMART Vocabulary: related words and phrases                    </header>
                     <div class="ca_b had daccord_b daccord_l">
                         <div class="daccord_lt">
-                            <a href="https://dictionary.cambridge.org/topics/mathematics-and-arithmetic/geometrical-shapes/" title="Words and phrases related to oval in the topic Geometrical shapes">Geometrical shapes</a>
+                            <a href="https://dictionary.cambridge.org/topics/using-and-not-using/useless-and-futile/" title="Words and phrases related to pathetic in the topic Useless and futile">Useless and futile</a>
                         </div>
 
                         <div class="daccord_lb">
                             
                             <ul class="hul-u hul-u0 hax lmb-10 lcs">
                                                                     <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="-cornered" class="topic_0  odd " href=" https://dictionary.cambridge.org/dictionary/english/cornered?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">-cornered</span></span></span>
+                                        <a title="a mug's game idiom" class="topic_0  odd " href=" https://dictionary.cambridge.org/dictionary/english/a-mug-s-game?topic=useless-and-futile ">
+                                            <span class="results"><span class="base"><span class="phrase haf">a mug's game</span></span> <span class="pos">idiom</span> </span>
                                         </a>
                                     </li>
                                                                     <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="-dimensional" class="topic_0  even " href=" https://dictionary.cambridge.org/dictionary/english/dimensional?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">-dimensional</span></span></span>
+                                        <a title="adrift" class="topic_0  even " href=" https://dictionary.cambridge.org/dictionary/english/adrift?topic=useless-and-futile ">
+                                            <span class="results"><span class="base"><span class="hw haf">adrift</span></span></span>
                                         </a>
                                     </li>
                                                                     <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="boxy" class="topic_2  odd " href=" https://dictionary.cambridge.org/dictionary/english/boxy?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">boxy</span></span></span>
+                                        <a title="aimless" class="topic_0  odd " href=" https://dictionary.cambridge.org/dictionary/english/aimless?topic=useless-and-futile ">
+                                            <span class="results"><span class="base"><span class="hw haf">aimless</span></span></span>
                                         </a>
                                     </li>
                                                                     <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="circular" class="topic_3  even " href=" https://dictionary.cambridge.org/dictionary/english/circular?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">circular</span></span></span>
+                                        <a title="aimlessly" class="topic_0  even " href=" https://dictionary.cambridge.org/dictionary/english/aimlessly?topic=useless-and-futile ">
+                                            <span class="results"><span class="base"><span class="hw haf">aimlessly</span></span></span>
                                         </a>
                                     </li>
                                                                     <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="cone" class="topic_3  odd " href=" https://dictionary.cambridge.org/dictionary/english/cone?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">cone</span></span></span>
+                                        <a title="aimlessness" class="topic_0  odd " href=" https://dictionary.cambridge.org/dictionary/english/aimlessness?topic=useless-and-futile ">
+                                            <span class="results"><span class="base"><span class="hw haf">aimlessness</span></span></span>
                                         </a>
                                     </li>
                                                                     <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="congruently" class="topic_0  even " href=" https://dictionary.cambridge.org/dictionary/english/congruently?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">congruently</span></span></span>
+                                        <a title="frivolous" class="topic_1  even " href=" https://dictionary.cambridge.org/dictionary/english/frivolous?topic=useless-and-futile ">
+                                            <span class="results"><span class="base"><span class="hw haf">frivolous</span></span></span>
                                         </a>
                                     </li>
                                                                     <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="conical" class="topic_2  odd " href=" https://dictionary.cambridge.org/dictionary/english/conical?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">conical</span></span></span>
+                                        <a title="frivolousness" class="topic_1  odd " href=" https://dictionary.cambridge.org/dictionary/english/frivolousness?topic=useless-and-futile ">
+                                            <span class="results"><span class="base"><span class="hw haf">frivolousness</span></span></span>
                                         </a>
                                     </li>
                                                                     <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="crescent" class="topic_3  even " href=" https://dictionary.cambridge.org/dictionary/english/crescent?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">crescent</span></span></span>
+                                        <a title="fruitless" class="topic_1  even " href=" https://dictionary.cambridge.org/dictionary/english/fruitless?topic=useless-and-futile ">
+                                            <span class="results"><span class="base"><span class="hw haf">fruitless</span></span></span>
                                         </a>
                                     </li>
                                                                     <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="cylinder" class="topic_3  odd " href=" https://dictionary.cambridge.org/dictionary/english/cylinder?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">cylinder</span></span></span>
+                                        <a title="fruitlessly" class="topic_1  odd " href=" https://dictionary.cambridge.org/dictionary/english/fruitlessly?topic=useless-and-futile ">
+                                            <span class="results"><span class="base"><span class="hw haf">fruitlessly</span></span></span>
                                         </a>
                                     </li>
                                                                     <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="decagon" class="topic_0  even " href=" https://dictionary.cambridge.org/dictionary/english/decagon?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">decagon</span></span></span>
+                                        <a title="fruitlessness" class="topic_1  even " href=" https://dictionary.cambridge.org/dictionary/english/fruitlessness?topic=useless-and-futile ">
+                                            <span class="results"><span class="base"><span class="hw haf">fruitlessness</span></span></span>
                                         </a>
                                     </li>
                                                                     <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="dodecahedron" class="topic_1  odd " href=" https://dictionary.cambridge.org/dictionary/english/dodecahedron?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">dodecahedron</span></span></span>
+                                        <a title="moon around" class="topic_2  odd " href=" https://dictionary.cambridge.org/dictionary/english/moon-around?topic=useless-and-futile ">
+                                            <span class="results"><span class="base"><span class="phrase haf">moon around</span></span></span>
                                         </a>
                                     </li>
                                                                     <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="dome" class="topic_3  even " href=" https://dictionary.cambridge.org/dictionary/english/dome?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">dome</span></span></span>
+                                        <a title="motiveless" class="topic_2  even " href=" https://dictionary.cambridge.org/dictionary/english/motiveless?topic=useless-and-futile ">
+                                            <span class="results"><span class="base"><span class="hw haf">motiveless</span></span></span>
                                         </a>
                                     </li>
                                                                     <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="ellipse" class="topic_2  odd " href=" https://dictionary.cambridge.org/dictionary/english/ellipse?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">ellipse</span></span></span>
+                                        <a title="negate" class="topic_2  odd " href=" https://dictionary.cambridge.org/dictionary/english/negate?topic=useless-and-futile ">
+                                            <span class="results"><span class="base"><span class="hw haf">negate</span></span></span>
                                         </a>
                                     </li>
                                                                     <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="half-moon" class="topic_1  even " href=" https://dictionary.cambridge.org/dictionary/english/half-moon?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">half-moon</span></span></span>
+                                        <a title="negation" class="topic_2  even " href=" https://dictionary.cambridge.org/dictionary/english/negation?topic=useless-and-futile ">
+                                            <span class="results"><span class="base"><span class="hw haf">negation</span></span></span>
                                         </a>
                                     </li>
                                                                     <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="hemispherical" class="topic_0  odd " href=" https://dictionary.cambridge.org/dictionary/english/hemispherical?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">hemispherical</span></span></span>
+                                        <a title="no good idiom" class="topic_2  odd " href=" https://dictionary.cambridge.org/dictionary/english/no-good?topic=useless-and-futile ">
+                                            <span class="results"><span class="base"><span class="phrase haf">no good</span></span> <span class="pos">idiom</span> </span>
                                         </a>
                                     </li>
                                                                     <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="oblong" class="topic_2  even " href=" https://dictionary.cambridge.org/dictionary/english/oblong?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">oblong</span></span></span>
+                                        <a title="unrealistically" class="topic_3  even " href=" https://dictionary.cambridge.org/dictionary/english/unrealistically?topic=useless-and-futile ">
+                                            <span class="results"><span class="base"><span class="hw haf">unrealistically</span></span></span>
                                         </a>
                                     </li>
                                                                     <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="pear-shaped" class="topic_2  odd " href=" https://dictionary.cambridge.org/dictionary/english/pear-shaped?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">pear-shaped</span></span></span>
+                                        <a title="until you are blue in the face idiom" class="topic_3  odd " href=" https://dictionary.cambridge.org/dictionary/english/until-you-are-blue-in-the-face?topic=useless-and-futile ">
+                                            <span class="results"><span class="base"><span class="phrase haf">until <span class="obj">you are</span> blue in the face</span></span> <span class="pos">idiom</span> </span>
                                         </a>
                                     </li>
                                                                     <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="rhomboid" class="topic_1  even " href=" https://dictionary.cambridge.org/dictionary/english/rhomboid?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">rhomboid</span></span></span>
+                                        <a title="unviability" class="topic_3  even " href=" https://dictionary.cambridge.org/dictionary/english/unviability?topic=useless-and-futile ">
+                                            <span class="results"><span class="base"><span class="hw haf">unviability</span></span></span>
                                         </a>
                                     </li>
                                                                     <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="right-angled triangle" class="topic_1  odd " href=" https://dictionary.cambridge.org/dictionary/english/right-angled-triangle?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">right-angled triangle</span></span></span>
+                                        <a title="unviable" class="topic_3  odd " href=" https://dictionary.cambridge.org/dictionary/english/unviable?topic=useless-and-futile ">
+                                            <span class="results"><span class="base"><span class="hw haf">unviable</span></span></span>
                                         </a>
                                     </li>
                                                                     <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="scalene triangle" class="topic_1  even " href=" https://dictionary.cambridge.org/dictionary/english/scalene-triangle?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">scalene triangle</span></span></span>
+                                        <a title="unwieldy" class="topic_3  even " href=" https://dictionary.cambridge.org/dictionary/english/unwieldy?topic=useless-and-futile ">
+                                            <span class="results"><span class="base"><span class="hw haf">unwieldy</span></span></span>
                                         </a>
                                     </li>
                                                             </ul>
 
-                                                            <a href="https://dictionary.cambridge.org/topics/mathematics-and-arithmetic/geometrical-shapes/" class="had tb" title="Words and phrases related to oval in the topic Geometrical shapes">See more results »</a>
+                                                            <a href="https://dictionary.cambridge.org/topics/using-and-not-using/useless-and-futile/" class="had tb" title="Words and phrases related to pathetic in the topic Useless and futile">See more results »</a>
                                                     </div>
 
+                                                <div class="lmt-20">
+                            <p>You can also find related words, phrases, and synonyms in the topics:</p>
+                            <div>
+                                                                                                <div class="lmb-5">
+                                        <a href="https://dictionary.cambridge.org/topics/good-and-bad/not-of-good-quality/" class="tb" title="Words and phrases related to pathetic in the topic Not of good quality">Not of good quality</a>
+                                    </div>
+                                                                                        </div>
+                        </div>
                                             </div>
                     </section>
             </amp-accordion>
         </div>
-                              <div class="bb hax">
-    <a class="hdb lp-20" href="/shop/business-vocabulary/intermediate?utm_source=CDO&utm_medium=ringlinks&utm_campaign=kahoots_for_work" target="_blank">
-        <i class="i i-arrow-right ibd tb hfr lmt--10 lmr--20" aria-hidden="true">&#160;</i>
-                  <p class="tb">Want to improve your English for work?</p>
-          <p>The new <span class="tb">Cambridge English kahoots for work</span> are a fun way to improve your communication skills in the workplace.</p>
-            </a>
-</div>
-                   </div></div></div> <div class="pr entry-body__el"><div class="cid" id="cald4-2"></div>                
-<div class="pr x lbb lb-cm">
-    <div class="hfr lpb-2">
-                                    <div class="pr hdib i i-facebook lp-5 lmr-10">
-            <a class="pa p0" onclick="ga('send', 'event', 'share_this_entry', 'facebook');" target="_blank" rel="noopener" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fdictionary.cambridge.org%2Fdictionary%2Fenglish%2Foval&t=" title="Share on Facebook"></a>
-        </div>
-        <div class="pr hdib i i-twitter lp-5 lmr-10">
-            <a class="pa p0" onclick="ga('send', 'event', 'share_this_entry', 'twitter');" target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdictionary.cambridge.org%2Fdictionary%2Fenglish%2Foval&text=" title="Share on Twitter"></a>
-        </div>
-        </div>
-</div>
-            <div class="pos-header dpos-h"><div class="di-title"><span class="headword hdb tw-bw dhw dpos-h_hw "><span class="hw dhw">oval</span></span></div><div class="posgram dpos-g hdib lmr-5"><span class="pos dpos" title="A word that refers to a person, place, idea, event or thing.">noun</span> <span class="gram dgram"><a href="/help/codes.html">[ <span class="gc dgc">C</span> ]</a></span></div> <div  ></div><span class="uk dpron-i "><span class="region dreg">uk</span><span class="daud">        
+                 </div><div class="xref related_word hax dxref-w lmt-25 lmb-25"><h3 class="bb fs16 lp-10 lmb-0"><strong class="xref-title dxref-t">Related word</strong></h3><div class="hax lp-10 lb lb-cm lbt0"><div class="lcs">
+
+                <div class="item lc lc1 lpb-10 lpr-10" data-position="1"><a href="/dictionary/english/pathetically" title="meaning of pathetically"><span class="x-h dx-h">pathetically</span> <span class="x-pos dx-pos">adverb</span></a></div></div></div></div></div></div></div></div></div><small class="lbt lb-cm lpb-10 lpt-10 lpb-25 lmb-10 ddef had hdb">
+                                (Definition of <b>pathetic</b> from the <a href="https://dictionary.cambridge.org/dictionary/english/" title="Cambridge Advanced Learner&apos;s Dictionary & Thesaurus" class="a--rev"><b>Cambridge Advanced Learner&apos;s Dictionary & Thesaurus</b></a> © Cambridge University Press)
+                   </small></div></div></div><div class="pr dictionary" data-type="sorted" data-id="cacd" data-tab="ds-cacd" role="tabpanel"><div class="cid" id="dataset_cacd"></div><div class="link"><div class="pr di superentry" itemprop="text"><div class="cid" id="dataset_cacd"></div>                <div class="di-head c_h di_h"><div class="di-title di_t"><h2 class="c_hh"><b  class='tb ttn'>pathetic</b> | American Dictionary</h2></div></div>
+                            <div class="di-body"><div class="entry"><div class="entry-body"> <div class="pr entry-body__el"><div class="cid" id="cacd-1"></div><div class="pos-header dpos-h"><div class="di-title"><span class="headword hdb tw-bw dhw dpos-h_hw "><span class="hw dhw">pathetic</span></span></div><div class="posgram dpos-g hdib lmr-5"><span class="pos dpos" title="A word that describes a noun or pronoun.">adjective</span></div> <div  ></div><span class="us dpron-i "><span class="region dreg">us</span><span class="daud">        
     <amp-audio layout="nodisplay" preload="none" id="ampaudio3" controlsList="nodownload">
         <div class="hdib" fallback>
             <p>Your browser doesn't support HTML5 audio</p>
         </div>
-        <source type="audio/mpeg" src="/media/english/uk_pron/u/uko/ukout/ukoutsh029.mp3"/>
-        <source type="audio/ogg" src="/media/english/uk_pron_ogg/u/uko/ukout/ukoutsh029.ogg"/>
+        <source type="audio/mpeg" src="/media/english/us_pron/p/pat/pathe/pathetic.mp3"/>
+        <source type="audio/ogg" src="/media/english/us_pron_ogg/p/pat/pathe/pathetic.ogg"/>
     </amp-audio>
-    <div title="Listen to the British English pronunciation" class="i i-volume-up c_aud htc hdib hp hv-1 fon tcu tc-bd lmr-10 lpt-3" on="tap: ampaudio3.play" role="button" tabindex="0">
+    <div title="Listen to the American English pronunciation" class="i i-volume-up c_aud htc hdib hp hv-1 fon tcu tc-bd lmr-10 lpt-3" on="tap: ampaudio3.play" role="button" tabindex="0">
     </div>
-</span><span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈəʊ.v<span class="sp dsp">ə</span>l</span>/</span></span> <span class="us dpron-i "><span class="region dreg">us</span><span class="daud">        
+</span><span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">pəˈθet̬·ɪk</span>/</span></span></div><div class="pos-body">
+
+                <div class="pr dsense "><div class="cid" id="cacd-1-1"></div> <h3 class="dsense_h"><span class="hw dsense_hw">pathetic</span> <span class="pos dsense_pos" title="A word that describes a noun or pronoun.">adjective</span> <span class="guideword dsense_gw" title="Guide word: helps you find the right meaning when a word has more than one meaning">
+            (<span>SAD</span>)
+      </span></h3> <div class="sense-body dsense_b"><div class="def-block ddef_block " data-wl-senseid="CACD_00012865_01">
+                        <div class="dwl hax">
+	        <a amp-access="loggedIn" amp-access-hide class="dwla wordlist-add-button" title="Add this meaning to a word list" on="tap:AMP.setState({ stateGlobal: { wlSenseId: 'CACD_00012865_01' } }), sidebarWordList.open">
+            <i class="i i-plus" aria-hidden="true"></i>
+            <i class="i i-list-ul"></i>
+        </a>
+        <a amp-access="NOT loggedIn" class="dwla wordlist-add-button" title="Add this meaning to a word list" on="tap:amp-access.login-sign-in">
+            <i class="i i-plus" aria-hidden="true"></i>
+            <i class="i i-list-ul"></i>
+        </a>
+	    </div>
+                <div class="ddef_h"><span class="def-info ddef-info">  </span><div class="def ddef_d db"><a class="query" href="https://dictionary.cambridge.org/dictionary/english/cause" title="causing">causing</a> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/feeling" title="feelings">feelings</a> of <a class="query" href="https://dictionary.cambridge.org/dictionary/english/sadness" title="sadness">sadness</a> or <a class="query" href="https://dictionary.cambridge.org/dictionary/english/sympathy" title="sympathy">sympathy</a>: </div> </div><div class="def-body ddef_b"><div class="examp dexamp"><span class="eg deg">I <a class="query" href="https://dictionary.cambridge.org/dictionary/english/think" title="think">think</a> it’s pathetic that only <a class="query" href="https://dictionary.cambridge.org/dictionary/english/half" title="half">half</a> of the <a class="query" href="https://dictionary.cambridge.org/dictionary/english/eligible" title="eligible">eligible</a> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/voter" title="voters">voters</a> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/tend" title="tend">tend</a> to <a class="query" href="https://dictionary.cambridge.org/dictionary/english/vote" title="vote">vote</a>.</span></div> </div></div></div>            </div>
+
+                <div class="pr dsense "><div class="cid" id="cacd-1-2"></div> <h3 class="dsense_h"><span class="hw dsense_hw">pathetic</span> <span class="pos dsense_pos" title="A word that describes a noun or pronoun.">adjective</span> <span class="guideword dsense_gw" title="Guide word: helps you find the right meaning when a word has more than one meaning">
+            (<span>UNSUCCESSFUL</span>)
+      </span></h3> <div class="sense-body dsense_b"><div class="def-block ddef_block " data-wl-senseid="CACD_00012865_02">
+                        <div class="dwl hax">
+	        <a amp-access="loggedIn" amp-access-hide class="dwla wordlist-add-button" title="Add this meaning to a word list" on="tap:AMP.setState({ stateGlobal: { wlSenseId: 'CACD_00012865_02' } }), sidebarWordList.open">
+            <i class="i i-plus" aria-hidden="true"></i>
+            <i class="i i-list-ul"></i>
+        </a>
+        <a amp-access="NOT loggedIn" class="dwla wordlist-add-button" title="Add this meaning to a word list" on="tap:amp-access.login-sign-in">
+            <i class="i i-plus" aria-hidden="true"></i>
+            <i class="i i-list-ul"></i>
+        </a>
+	    </div>
+                <div class="ddef_h"><span class="def-info ddef-info">  </span><div class="def ddef_d db"><a class="query" href="https://dictionary.cambridge.org/dictionary/english/unsuccessful" title="unsuccessful">unsuccessful</a>, <a class="query" href="https://dictionary.cambridge.org/dictionary/english/useless" title="useless">useless</a>, or <a class="query" href="https://dictionary.cambridge.org/dictionary/english/worthless" title="worthless">worthless</a>: </div> </div><div class="def-body ddef_b"><div class="examp dexamp"><span class="eg deg">a pathetic <a class="query" href="https://dictionary.cambridge.org/dictionary/english/excuse" title="excuse">excuse</a></span></div><div class="examp dexamp"> <span class="eg deg">Bernie’s <a class="query" href="https://dictionary.cambridge.org/dictionary/english/hitting" title="hitting">hitting</a> was <a class="query" href="https://dictionary.cambridge.org/dictionary/english/pretty" title="pretty">pretty</a> pathetic!</span></div> </div></div></div>                  </div><div class="pr runon drunon"><div class="cid" id="cacd-1-3"></div><span class="runon-head drunon-head"><h3 class="runon-title drunon-title"><span class="w dw">pathetically</span></h3> <div class="pos-header dpos-h"><span class="pos dpos" title="A word that describes or gives more information about a verb, adjective or other adverb.">adverb</span> <span class="us dpron-i "><span class="region dreg">us</span><span class="daud">        
     <amp-audio layout="nodisplay" preload="none" id="ampaudio4" controlsList="nodownload">
         <div class="hdib" fallback>
             <p>Your browser doesn't support HTML5 audio</p>
         </div>
-        <source type="audio/mpeg" src="/media/english/us_pron/e/eus/eus75/eus75387.mp3"/>
-        <source type="audio/ogg" src="/media/english/us_pron_ogg/e/eus/eus75/eus75387.ogg"/>
+        <source type="audio/mpeg" src="/media/english/us_pron/p/pat/pathe/pathetically.mp3"/>
+        <source type="audio/ogg" src="/media/english/us_pron_ogg/p/pat/pathe/pathetically.ogg"/>
     </amp-audio>
     <div title="Listen to the American English pronunciation" class="i i-volume-up c_aud htc hdib hp hv-1 fon tcu tc-bd lmr-10 lpt-3" on="tap: ampaudio4.play" role="button" tabindex="0">
     </div>
-</span><span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈoʊ.v<span class="sp dsp">ə</span>l</span>/</span></span></div><div class="pos-body">
-
-                        <div class="pr dsense dsense-noh"><div class="cid" id="cald4-2-1"></div> <div class="sense-body dsense_b"><div class="def-block ddef_block " data-wl-senseid="ID_00022777_3">
-                        <div class="dwl hax">
-	        <a amp-access="loggedIn" amp-access-hide class="dwla wordlist-add-button" title="Add this meaning to a word list" on="tap:AMP.setState({ stateGlobal: { wlSenseId: 'ID_00022777_3' } }), sidebarWordList.open">
-            <i class="i i-plus" aria-hidden="true"></i>
-            <i class="i i-list-ul"></i>
-        </a>
-        <a amp-access="NOT loggedIn" class="dwla wordlist-add-button" title="Add this meaning to a word list" on="tap:amp-access.login-sign-in">
-            <i class="i i-plus" aria-hidden="true"></i>
-            <i class="i i-list-ul"></i>
-        </a>
-	    </div>
-                <div class="ddef_h"><span class="def-info ddef-info">  </span><div class="def ddef_d db">an oval <a class="query" href="https://dictionary.cambridge.org/dictionary/english/object" title="object">object</a> or <a class="query" href="https://dictionary.cambridge.org/dictionary/english/shape" title="shape">shape</a>: </div> </div><div class="def-body ddef_b"><div class="examp dexamp"><span class="eg deg">Her <a class="query" href="https://dictionary.cambridge.org/dictionary/english/eye" title="eyes">eyes</a> were <a class="query" href="https://dictionary.cambridge.org/dictionary/english/large" title="large">large</a> ovals.</span></div><div class="examp dexamp"> <span class="eg deg">Voters use a <a class="query" href="https://dictionary.cambridge.org/dictionary/english/pencil" title="pencil">pencil</a> to <a class="query" href="https://dictionary.cambridge.org/dictionary/english/fill" title="fill">fill</a> in ovals on the <a class="query" href="https://dictionary.cambridge.org/dictionary/english/ballot" title="ballot">ballot</a>. </span></div><div class="xref compare hax dxref-w lmt-25"><strong class="xref-title dxref-t">Compare</strong><div class="lcs lmt-10 lmb-20">
-
-                <div class="item lc lc1 lpb-10 lpr-10" data-position="1"><a href="/dictionary/english/ellipse" title="meaning of ellipse"><span class="x-h dx-h">ellipse</span></a></div></div></div> </div></div>
-                    <div class="daccord"><amp-accordion>
-                                    <section  >
-                                    <header class="ca_h daccord_h">
-                                            <i class="i i-plus ca_hi"></i>
-                                        More examples
-                                    </header><ul class="hul-u hul-u0 ca_b daccord_b"><li class="eg dexamp hax">Imagine you're <a class="query" href="https://dictionary.cambridge.org/dictionary/english/drawing" title="drawing">drawing</a> an oval with <a class="query" href="https://dictionary.cambridge.org/dictionary/english/your" title="your">your</a> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/hip" title="hip">hip</a> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/movement" title="movements">movements</a>.</li><li class="eg dexamp hax">The <a class="query" href="https://dictionary.cambridge.org/dictionary/english/cloud" title="clouds">clouds</a> are <a class="query" href="https://dictionary.cambridge.org/dictionary/english/paint" title="painted">painted</a> as <a class="query" href="https://dictionary.cambridge.org/dictionary/english/white" title="white">white</a> ovals with <a class="query" href="https://dictionary.cambridge.org/dictionary/english/blue" title="blue">blue</a> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/centre" title="centres">centres</a>.</li><li class="eg dexamp hax">Each <a class="query" href="https://dictionary.cambridge.org/dictionary/english/child" title="child">child</a> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/help" title="helped">helped</a> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/stretch" title="stretch">stretch</a> the <a class="query" href="https://dictionary.cambridge.org/dictionary/english/pizza" title="pizza">pizza</a> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/dough" title="dough">dough</a> into ovals <a class="query" href="https://dictionary.cambridge.org/dictionary/english/ready" title="ready">ready</a> for <a class="query" href="https://dictionary.cambridge.org/dictionary/english/topping" title="topping">topping</a>.</li></ul>
-                                    </section>
-                            </amp-accordion></div></div>         
-        <div class="smartt daccord">
-            <amp-accordion disable-session-states>
-                    <section  >
-                    <header class="ca_h daccord_h">
-                        <i class="i i-plus ca_hi" aria-hidden="true"></i>
-                        SMART Vocabulary: related words and phrases                    </header>
-                    <div class="ca_b had daccord_b daccord_l">
-                        <div class="daccord_lt">
-                            <a href="https://dictionary.cambridge.org/topics/mathematics-and-arithmetic/geometrical-shapes/" title="Words and phrases related to oval in the topic Geometrical shapes">Geometrical shapes</a>
-                        </div>
-
-                        <div class="daccord_lb">
-                            
-                            <ul class="hul-u hul-u0 hax lmb-10 lcs">
-                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="-cornered" class="topic_0  odd " href=" https://dictionary.cambridge.org/dictionary/english/cornered?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">-cornered</span></span></span>
-                                        </a>
-                                    </li>
-                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="-dimensional" class="topic_0  even " href=" https://dictionary.cambridge.org/dictionary/english/dimensional?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">-dimensional</span></span></span>
-                                        </a>
-                                    </li>
-                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="boxy" class="topic_2  odd " href=" https://dictionary.cambridge.org/dictionary/english/boxy?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">boxy</span></span></span>
-                                        </a>
-                                    </li>
-                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="circular" class="topic_3  even " href=" https://dictionary.cambridge.org/dictionary/english/circular?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">circular</span></span></span>
-                                        </a>
-                                    </li>
-                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="cone" class="topic_3  odd " href=" https://dictionary.cambridge.org/dictionary/english/cone?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">cone</span></span></span>
-                                        </a>
-                                    </li>
-                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="congruently" class="topic_0  even " href=" https://dictionary.cambridge.org/dictionary/english/congruently?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">congruently</span></span></span>
-                                        </a>
-                                    </li>
-                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="conical" class="topic_2  odd " href=" https://dictionary.cambridge.org/dictionary/english/conical?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">conical</span></span></span>
-                                        </a>
-                                    </li>
-                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="crescent" class="topic_3  even " href=" https://dictionary.cambridge.org/dictionary/english/crescent?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">crescent</span></span></span>
-                                        </a>
-                                    </li>
-                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="cylinder" class="topic_3  odd " href=" https://dictionary.cambridge.org/dictionary/english/cylinder?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">cylinder</span></span></span>
-                                        </a>
-                                    </li>
-                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="decagon" class="topic_0  even " href=" https://dictionary.cambridge.org/dictionary/english/decagon?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">decagon</span></span></span>
-                                        </a>
-                                    </li>
-                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="dodecahedron" class="topic_1  odd " href=" https://dictionary.cambridge.org/dictionary/english/dodecahedron?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">dodecahedron</span></span></span>
-                                        </a>
-                                    </li>
-                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="dome" class="topic_3  even " href=" https://dictionary.cambridge.org/dictionary/english/dome?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">dome</span></span></span>
-                                        </a>
-                                    </li>
-                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="ellipse" class="topic_2  odd " href=" https://dictionary.cambridge.org/dictionary/english/ellipse?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">ellipse</span></span></span>
-                                        </a>
-                                    </li>
-                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="half-moon" class="topic_1  even " href=" https://dictionary.cambridge.org/dictionary/english/half-moon?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">half-moon</span></span></span>
-                                        </a>
-                                    </li>
-                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="hemispherical" class="topic_0  odd " href=" https://dictionary.cambridge.org/dictionary/english/hemispherical?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">hemispherical</span></span></span>
-                                        </a>
-                                    </li>
-                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="oblong" class="topic_2  even " href=" https://dictionary.cambridge.org/dictionary/english/oblong?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">oblong</span></span></span>
-                                        </a>
-                                    </li>
-                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="pear-shaped" class="topic_2  odd " href=" https://dictionary.cambridge.org/dictionary/english/pear-shaped?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">pear-shaped</span></span></span>
-                                        </a>
-                                    </li>
-                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="rhomboid" class="topic_1  even " href=" https://dictionary.cambridge.org/dictionary/english/rhomboid?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">rhomboid</span></span></span>
-                                        </a>
-                                    </li>
-                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="right-angled triangle" class="topic_1  odd " href=" https://dictionary.cambridge.org/dictionary/english/right-angled-triangle?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">right-angled triangle</span></span></span>
-                                        </a>
-                                    </li>
-                                                                    <li class="lc lc1 lc-xs6-12 lpb-5 lpr-10">
-                                        <a title="scalene triangle" class="topic_1  even " href=" https://dictionary.cambridge.org/dictionary/english/scalene-triangle?topic=geometrical-shapes ">
-                                            <span class="results"><span class="base"><span class="hw haf">scalene triangle</span></span></span>
-                                        </a>
-                                    </li>
-                                                            </ul>
-
-                                                            <a href="https://dictionary.cambridge.org/topics/mathematics-and-arithmetic/geometrical-shapes/" class="had tb" title="Words and phrases related to oval in the topic Geometrical shapes">See more results »</a>
-                                                    </div>
-
-                                            </div>
-                    </section>
-            </amp-accordion>
-        </div>
-                 </div></div></div></div></div></div><small class="lbt lb-cm lpb-10 lpt-10 lpb-25 lmb-10 ddef had hdb">
-                                (Definition of <b>oval</b> from the <a href="https://dictionary.cambridge.org/dictionary/english/" title="Cambridge Advanced Learner&apos;s Dictionary & Thesaurus" class="a--rev"><b>Cambridge Advanced Learner&apos;s Dictionary & Thesaurus</b></a> © Cambridge University Press)
-                   </small></div></div></div><div class="pr dictionary" data-type="sorted" data-id="cacd" data-tab="ds-cacd" role="tabpanel"><div class="cid" id="dataset_cacd"></div><div class="link"><div class="pr di superentry" itemprop="text"><div class="cid" id="dataset_cacd"></div>                <div class="di-head c_h di_h"><div class="di-title di_t"><h2 class="c_hh"><b  class='tb ttn'>oval</b> | American Dictionary</h2></div></div>
-                            <div class="di-body"><div class="entry"><div class="entry-body"> <div class="pr entry-body__el"><div class="cid" id="cacd-1"></div><div class="pos-header dpos-h"><div class="di-title"><span class="headword hdb tw-bw dhw dpos-h_hw "><span class="hw dhw">oval</span></span></div><div class="posgram dpos-g hdib lmr-5"><span class="pos dpos" title="A word that describes a noun or pronoun.">adjective</span></div> <div  ></div><span class="us dpron-i "><span class="region dreg">us</span><span class="daud">        
-    <amp-audio layout="nodisplay" preload="none" id="ampaudio5" controlsList="nodownload">
-        <div class="hdib" fallback>
-            <p>Your browser doesn't support HTML5 audio</p>
-        </div>
-        <source type="audio/mpeg" src="/media/english/us_pron/e/eus/eus75/eus75387.mp3"/>
-        <source type="audio/ogg" src="/media/english/us_pron_ogg/e/eus/eus75/eus75387.ogg"/>
-    </amp-audio>
-    <div title="Listen to the American English pronunciation" class="i i-volume-up c_aud htc hdib hp hv-1 fon tcu tc-bd lmr-10 lpt-3" on="tap: ampaudio5.play" role="button" tabindex="0">
-    </div>
-</span><span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈoʊ·vəl</span>/</span></span></div><div class="pos-body">
-
-                <div class="pr dsense dsense-noh"><div class="cid" id="cacd-1-1"></div> <div class="sense-body dsense_b"><div class="def-block ddef_block " data-wl-senseid="CACD_00012529_01">
-                        <div class="dwl hax">
-	        <a amp-access="loggedIn" amp-access-hide class="dwla wordlist-add-button" title="Add this meaning to a word list" on="tap:AMP.setState({ stateGlobal: { wlSenseId: 'CACD_00012529_01' } }), sidebarWordList.open">
-            <i class="i i-plus" aria-hidden="true"></i>
-            <i class="i i-list-ul"></i>
-        </a>
-        <a amp-access="NOT loggedIn" class="dwla wordlist-add-button" title="Add this meaning to a word list" on="tap:amp-access.login-sign-in">
-            <i class="i i-plus" aria-hidden="true"></i>
-            <i class="i i-list-ul"></i>
-        </a>
-	    </div>
-                <div class="ddef_h"><span class="def-info ddef-info">  </span><div class="def ddef_d db"><a class="query" href="https://dictionary.cambridge.org/dictionary/english/shaped" title="shaped">shaped</a> like a <a class="query" href="https://dictionary.cambridge.org/dictionary/english/circle" title="circle">circle</a> that is <a class="query" href="https://dictionary.cambridge.org/dictionary/english/flatten" title="flattened">flattened</a> with two <a class="query" href="https://dictionary.cambridge.org/dictionary/english/long" title="long">long</a>, <a class="query" href="https://dictionary.cambridge.org/dictionary/english/straight" title="straight">straight</a> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/side" title="sides">sides</a> and round <a class="query" href="https://dictionary.cambridge.org/dictionary/english/end" title="ends">ends</a>, or <a class="query" href="https://dictionary.cambridge.org/dictionary/english/shaped" title="shaped">shaped</a> like an <a class="query" href="https://dictionary.cambridge.org/dictionary/english/egg" title="egg">egg</a>: </div> </div><div class="def-body ddef_b"><div class="examp dexamp"><span class="eg deg">an oval <a class="query" href="https://dictionary.cambridge.org/dictionary/english/table" title="table">table</a></span></div> </div></div></div>                  </div><div class="pr runon drunon"><div class="cid" id="cacd-1-2"></div><span class="runon-head drunon-head"><h3 class="runon-title drunon-title"><span class="w dw">oval</span></h3> <div class="pos-header dpos-h"><span class="pos dpos" title="A word that refers to a person, place, idea, event or thing.">noun</span> <span class="gram dgram"><a href="/help/codes.html">[ <span class="gc dgc">C</span> ]</a></span> <span class="us dpron-i "><span class="region dreg">us</span><span class="daud">        
-    <amp-audio layout="nodisplay" preload="none" id="ampaudio6" controlsList="nodownload">
-        <div class="hdib" fallback>
-            <p>Your browser doesn't support HTML5 audio</p>
-        </div>
-        <source type="audio/mpeg" src="/media/english/us_pron/e/eus/eus75/eus75387.mp3"/>
-        <source type="audio/ogg" src="/media/english/us_pron_ogg/e/eus/eus75/eus75387.ogg"/>
-    </amp-audio>
-    <div title="Listen to the American English pronunciation" class="i i-volume-up c_aud htc hdib hp hv-1 fon tcu tc-bd lmr-10 lpt-3" on="tap: ampaudio6.play" role="button" tabindex="0">
-    </div>
-</span><span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">ˈoʊ·vəl</span>/</span></span></div></span><div class="runon-body drunon-body"> <div class="def-block ddef_block ddef_block-nos">
+</span><span class="pron dpron">/<span class="ipa dipa lpr-2 lpl-1">pəˈθet̬·ɪ·kli</span>/</span></span></div></span><div class="runon-body drunon-body"> <div class="def-block ddef_block ddef_block-nos">
                     <div class="dwl dwl-ns"></div>
-                <div class="ddef_h"><span class="def-info ddef-info">  </span> </div><div class="def-body ddef_b"><div class="examp dexamp"><span class="eg deg">The <a class="query" href="https://dictionary.cambridge.org/dictionary/english/sculptor" title="sculptor">sculptor</a> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/create" title="created">created</a> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/pattern" title="patterns">patterns</a> of <a class="query" href="https://dictionary.cambridge.org/dictionary/english/cylinder" title="cylinders">cylinders</a>, <a class="query" href="https://dictionary.cambridge.org/dictionary/english/cone" title="cones">cones</a>, and ovals.</span></div> </div></div></div></div></div></div></div></div></div><small class="lbt lb-cm lpb-10 lpt-10 lpb-25 lmb-10 ddef had hdb">
-                                (Definition of <b>oval</b> from the <a href="https://dictionary.cambridge.org/dictionary/english/" title="Cambridge Academic Content Dictionary" class="a--rev"><b>Cambridge Academic Content Dictionary</b></a> © Cambridge University Press)
-                   </small></div></div></div>                 <div class="dataset dd pr lmb-20" data-type="sorted" data-id="examples" data-tab="ds-examples" role="tabpanel"><div class="cid" id="dataset_examples"></div>            <div id="dataset-example" data-tab="ds-example" role="tabpanel">
+                <div class="ddef_h"><span class="def-info ddef-info">  </span> </div><div class="def-body ddef_b"><div class="examp dexamp"><span class="eg deg">a pathetically <a class="query" href="https://dictionary.cambridge.org/dictionary/english/small" title="small">small</a> <a class="query" href="https://dictionary.cambridge.org/dictionary/english/dog" title="dog">dog</a></span></div> </div></div></div></div></div></div></div></div></div><small class="lbt lb-cm lpb-10 lpt-10 lpb-25 lmb-10 ddef had hdb">
+                                (Definition of <b>pathetic</b> from the <a href="https://dictionary.cambridge.org/dictionary/english/" title="Cambridge Academic Content Dictionary" class="a--rev"><b>Cambridge Academic Content Dictionary</b></a> © Cambridge University Press)
+                   </small></div></div></div>        <div class="dataset dd pr lmb-20" data-type="sorted" data-id="examples" data-tab="ds-examples" role="tabpanel"><div class="cid" id="dataset_examples"></div>            <div id="dataset-example" data-tab="ds-example" role="tabpanel">
                 <div class="c_h">
-    <h2 class="c_hh">Examples <span class="tcl">of </span><span class="tb tcl">oval</span></h2></div>
+    <h2 class="c_hh">Examples <span class="tcl">of </span><span class="tb tcl">pathetic</span></h2></div>
 
 <div class="lp-10">
     <div class="h2 dhw dpos-h_hw  lpt-5 lpb-10">
-        oval
+        pathetic
     </div>
 
     
@@ -1106,13 +1090,13 @@ var pl_p = localStorage.pl;
                             <div class="lbb lb-cm lpt-10">
 
                                             <span class="deg">
-                            Around the circle are half ovals set like the petals of a daisy.
+                            We begin with "our naked shivering nature," an almost <em>pathetic</em> presence.
                         </span>
                                         <div class="dsource lpr-20 pr">
                         
-            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="5561252" data-dataset-id="5499879"
+            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="10139218" data-dataset-id="10133295"
     role="button" aria-label="Tell us what you think" tabindex="0"
-    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '5561252', dataset_id: '5499879' } }),sidebarEntryTellUs.open"
+    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '10139218', dataset_id: '10133295' } }),sidebarEntryTellUs.open"
 >
                             <i class="i i-comment fs14" aria-hidden="true"></i>
                         </a>
@@ -1122,13 +1106,13 @@ var pl_p = localStorage.pl;
                             <div class="lbb lb-cm lpt-10">
 
                                             <span class="deg">
-                            The black ovals represent schematically the blind spot locations.
+                            The poem also nods towards the bucolic realm in its use of the <em>pathetic</em> fallacy, where elements of nature are imbued with feeling.
                         </span>
                                         <div class="dsource lpr-20 pr">
                         
-            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="5561253" data-dataset-id="5499879"
+            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="10139219" data-dataset-id="10133295"
     role="button" aria-label="Tell us what you think" tabindex="0"
-    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '5561253', dataset_id: '5499879' } }),sidebarEntryTellUs.open"
+    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '10139219', dataset_id: '10133295' } }),sidebarEntryTellUs.open"
 >
                             <i class="i i-comment fs14" aria-hidden="true"></i>
                         </a>
@@ -1138,13 +1122,13 @@ var pl_p = localStorage.pl;
                             <div class="lbb lb-cm lpt-10">
 
                                             <span class="deg">
-                            The presence of such functions in the relative cohomology decompositions is a reflection of the specific geometry of the ovals from the corresponding period annulus.
+                            A small band of man-apes are on the long, <em>pathetic</em> road to racial extinction.
                         </span>
                                         <div class="dsource lpr-20 pr">
                         
-            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="5561254" data-dataset-id="5499879"
+            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="10139220" data-dataset-id="10133295"
     role="button" aria-label="Tell us what you think" tabindex="0"
-    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '5561254', dataset_id: '5499879' } }),sidebarEntryTellUs.open"
+    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '10139220', dataset_id: '10133295' } }),sidebarEntryTellUs.open"
 >
                             <i class="i i-comment fs14" aria-hidden="true"></i>
                         </a>
@@ -1154,13 +1138,13 @@ var pl_p = localStorage.pl;
                             <div class="lbb lb-cm lpt-10">
 
                                             <span class="deg">
-                            Regions within which samples are homogeneous (see text) are shown using ovals.
+                            The ingrates, formerly beautiful women, must now live as <em>pathetic</em> and horrifyingly ugly souls because they scorned their suitors.
                         </span>
                                         <div class="dsource lpr-20 pr">
                         
-            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="5561255" data-dataset-id="5499879"
+            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="10139221" data-dataset-id="10133295"
     role="button" aria-label="Tell us what you think" tabindex="0"
-    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '5561255', dataset_id: '5499879' } }),sidebarEntryTellUs.open"
+    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '10139221', dataset_id: '10133295' } }),sidebarEntryTellUs.open"
 >
                             <i class="i i-comment fs14" aria-hidden="true"></i>
                         </a>
@@ -1170,13 +1154,13 @@ var pl_p = localStorage.pl;
                             <div class="lbb lb-cm lpt-10">
 
                                             <span class="deg">
-                            Participants watch a computer screen while either ovals depicting the superior view of heads or plain ovals appear every few seconds.
+                            The baritone's role as protagonist was regarded as unusually challenging, requiring a gamut of emotions from the noble and majestic to the <em>pathetic</em> and vulnerable.
                         </span>
                                         <div class="dsource lpr-20 pr">
                         
-            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="5561256" data-dataset-id="5499879"
+            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="10139222" data-dataset-id="10133295"
     role="button" aria-label="Tell us what you think" tabindex="0"
-    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '5561256', dataset_id: '5499879' } }),sidebarEntryTellUs.open"
+    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '10139222', dataset_id: '10133295' } }),sidebarEntryTellUs.open"
 >
                             <i class="i i-comment fs14" aria-hidden="true"></i>
                         </a>
@@ -1186,13 +1170,13 @@ var pl_p = localStorage.pl;
                             <div class="lbb lb-cm lpt-10">
 
                                             <span class="deg">
-                            Likewise, variation in the placement of the ovals in the interactive steps would lead to local irregular variability in the final leveled image.
+                            The <em>pathetic</em> tone of this work is exceptional.
                         </span>
                                         <div class="dsource lpr-20 pr">
                         
-            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="5561257" data-dataset-id="5499879"
+            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="10139223" data-dataset-id="10133295"
     role="button" aria-label="Tell us what you think" tabindex="0"
-    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '5561257', dataset_id: '5499879' } }),sidebarEntryTellUs.open"
+    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '10139223', dataset_id: '10133295' } }),sidebarEntryTellUs.open"
 >
                             <i class="i i-comment fs14" aria-hidden="true"></i>
                         </a>
@@ -1202,13 +1186,13 @@ var pl_p = localStorage.pl;
                             <div class="lbb lb-cm lpt-10">
 
                                             <span class="deg">
-                            They are principally cylinders, cones and ovals or parts of the same.
+                            I was amazed at the beautifully <em>pathetic</em> story he had made of it.
                         </span>
                                         <div class="dsource lpr-20 pr">
                         
-            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="5561258" data-dataset-id="5499879"
+            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="10139224" data-dataset-id="10133295"
     role="button" aria-label="Tell us what you think" tabindex="0"
-    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '5561258', dataset_id: '5499879' } }),sidebarEntryTellUs.open"
+    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '10139224', dataset_id: '10133295' } }),sidebarEntryTellUs.open"
 >
                             <i class="i i-comment fs14" aria-hidden="true"></i>
                         </a>
@@ -1218,13 +1202,13 @@ var pl_p = localStorage.pl;
                             <div class="lbb lb-cm lpt-10">
 
                                             <span class="deg">
-                            Following the initial outlines, the sculptor would have created the more involved pattern of cylinders, cones and ovals we see on the other figures.
+                            Instead of a consolidated bibliography, the reader is given a <em>pathetic</em> two-page guide to further reading.
                         </span>
                                         <div class="dsource lpr-20 pr">
                         
-            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="5561259" data-dataset-id="5499879"
+            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="10139225" data-dataset-id="10133295"
     role="button" aria-label="Tell us what you think" tabindex="0"
-    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '5561259', dataset_id: '5499879' } }),sidebarEntryTellUs.open"
+    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '10139225', dataset_id: '10133295' } }),sidebarEntryTellUs.open"
 >
                             <i class="i i-comment fs14" aria-hidden="true"></i>
                         </a>
@@ -1234,13 +1218,13 @@ var pl_p = localStorage.pl;
                             <div class="lbb lb-cm lpt-10">
 
                                             <span class="deg">
-                            The ovals show the result of rules applied at a particular active center.
+                            It is <em>pathetic</em> to discuss whether we ration, we always do everywhere : the issue is not whether but how to ration.
                         </span>
                                         <div class="dsource lpr-20 pr">
                         
-            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="5561260" data-dataset-id="5499879"
+            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="10139226" data-dataset-id="10133295"
     role="button" aria-label="Tell us what you think" tabindex="0"
-    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '5561260', dataset_id: '5499879' } }),sidebarEntryTellUs.open"
+    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '10139226', dataset_id: '10133295' } }),sidebarEntryTellUs.open"
 >
                             <i class="i i-comment fs14" aria-hidden="true"></i>
                         </a>
@@ -1250,13 +1234,13 @@ var pl_p = localStorage.pl;
                             <div class="lbb lb-cm lpt-10">
 
                                             <span class="deg">
-                            The ovals and circles are nodes, which may be nested, and each node has ports, which may be linked.
+                            If you do, you are either saintly or <em>pathetic</em>.
                         </span>
                                         <div class="dsource lpr-20 pr">
                         
-            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="5561261" data-dataset-id="5499879"
+            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="10139227" data-dataset-id="10133295"
     role="button" aria-label="Tell us what you think" tabindex="0"
-    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '5561261', dataset_id: '5499879' } }),sidebarEntryTellUs.open"
+    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '10139227', dataset_id: '10133295' } }),sidebarEntryTellUs.open"
 >
                             <i class="i i-comment fs14" aria-hidden="true"></i>
                         </a>
@@ -1266,13 +1250,13 @@ var pl_p = localStorage.pl;
                             <div class="lbb lb-cm lpt-10">
 
                                             <span class="deg">
-                            Latent variables are depicted in ovals and observed variables in rectangles.
+                            In this sense, recognition of the era of recording is not a pre-requisite for memory material to produce a <em>pathetic</em> engagement.
                         </span>
                                         <div class="dsource lpr-20 pr">
                         
-            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="5561262" data-dataset-id="5499879"
+            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="10139228" data-dataset-id="10133295"
     role="button" aria-label="Tell us what you think" tabindex="0"
-    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '5561262', dataset_id: '5499879' } }),sidebarEntryTellUs.open"
+    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '10139228', dataset_id: '10133295' } }),sidebarEntryTellUs.open"
 >
                             <i class="i i-comment fs14" aria-hidden="true"></i>
                         </a>
@@ -1282,13 +1266,13 @@ var pl_p = localStorage.pl;
                             <div class="lbb lb-cm lpt-10">
 
                                             <span class="deg">
-                            Four chromosomal regions, represented by vertical lines, were detected using three groups of traits distinguished by the ovals, rectangles and shaded rectangle.
+                            The belief in technical and legal engineering, especially before independence, is often extreme, if not <em>pathetic</em>.
                         </span>
                                         <div class="dsource lpr-20 pr">
                         
-            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="5561263" data-dataset-id="5499879"
+            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="10139229" data-dataset-id="10133295"
     role="button" aria-label="Tell us what you think" tabindex="0"
-    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '5561263', dataset_id: '5499879' } }),sidebarEntryTellUs.open"
+    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '10139229', dataset_id: '10133295' } }),sidebarEntryTellUs.open"
 >
                             <i class="i i-comment fs14" aria-hidden="true"></i>
                         </a>
@@ -1298,13 +1282,13 @@ var pl_p = localStorage.pl;
                             <div class="lbb lb-cm lpt-10">
 
                                             <span class="deg">
-                            They predominantly used lines, ovals and blobs, rectangles, and hatching.
+                            Two such examples of realistic and '<em>pathetic</em>' racial film melodramas were released in 1915 with an unprecedented nationwide success.
                         </span>
                                         <div class="dsource lpr-20 pr">
                         
-            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="5561264" data-dataset-id="5499879"
+            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="10139230" data-dataset-id="10133295"
     role="button" aria-label="Tell us what you think" tabindex="0"
-    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '5561264', dataset_id: '5499879' } }),sidebarEntryTellUs.open"
+    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '10139230', dataset_id: '10133295' } }),sidebarEntryTellUs.open"
 >
                             <i class="i i-comment fs14" aria-hidden="true"></i>
                         </a>
@@ -1314,13 +1298,13 @@ var pl_p = localStorage.pl;
                             <div class="lbb lb-cm lpt-10">
 
                                             <span class="deg">
-                            The four latent variables, shown in ovals, describe the trajectories of the two types of behavior problems.
+                            The equivalent point in the finale (from bar 76) presents another kind of free vocalizing, like a purely melodic cadenza in <em>pathetic</em> style.
                         </span>
                                         <div class="dsource lpr-20 pr">
                         
-            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="5561265" data-dataset-id="5499879"
+            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="10139231" data-dataset-id="10133295"
     role="button" aria-label="Tell us what you think" tabindex="0"
-    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '5561265', dataset_id: '5499879' } }),sidebarEntryTellUs.open"
+    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '10139231', dataset_id: '10133295' } }),sidebarEntryTellUs.open"
 >
                             <i class="i i-comment fs14" aria-hidden="true"></i>
                         </a>
@@ -1330,23 +1314,19 @@ var pl_p = localStorage.pl;
                             <div class="lbb lb-cm lpt-10">
 
                                             <span class="deg">
-                            Detailed anatomical examination of the <em>oval</em> fossa and its environs relative to placement of the device is obviously of great practical importance.
+                            Seen from this angle, the castrati were, so to speak, turned inside out; no longer simply monstrous, they became <em>pathetic</em>, endowed with feelings.
                         </span>
                                         <div class="dsource lpr-20 pr">
                         
-            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="5561266" data-dataset-id="5499879"
+            From the <a href="https://www.cambridge.org/gb/cambridgeenglish/better-learning-insights/corpus" class="italic" target="_blank" rel="noopener">Cambridge English Corpus</a>                            <a class="report-example-inappropriate pa pt0 pr0"     data-example-id="10139232" data-dataset-id="10133295"
     role="button" aria-label="Tell us what you think" tabindex="0"
-    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '5561266', dataset_id: '5499879' } }),sidebarEntryTellUs.open"
+    on="tap: formTellUs.clear,formTellUsDefinition.clear,AMP.setState({ stateSidebarEntryTellUs: { success: false, example_id: '10139232', dataset_id: '10133295' } }),sidebarEntryTellUs.open"
 >
                             <i class="i i-comment fs14" aria-hidden="true"></i>
                         </a>
                     </div>
                 </div>
                     
-                    <div class="tc-w hax">
-                <a href="https://dictionary.cambridge.org/example/english/oval" class="hao hbtn hbtn-tab bh tc-w tb lmt-20">
-                    See all examples of <span class="bold">oval</span>                </a>
-            </div>
         
         <div class="tc-bi fs12 lpt-10 lpb-10 break">
             These examples are from corpora and from sources on the web. Any opinions in the examples do not represent the opinion of the Cambridge Dictionary editors or of Cambridge University Press or its licensors.        </div>
@@ -1362,7 +1342,7 @@ var pl_p = localStorage.pl;
         <!-- translation -->
         <div class="cid" id="dataset_translations"></div>
         <div class="lc lc1 lc-m7-12 lp-20 lbb lbb0-m lbr-m lb-cn cdo-translations" id="translations">
-          <h2 class="h3 fs19 tn tc-w">Translations of <span class="tb">oval</span></h2>
+          <h2 class="h3 fs19 tn tc-w">Translations of <span class="tb">pathetic</span></h2>
           <!-- market data set + localized data set -->
           <div class="lmb-10">
                                          <div class="pr bw lp-10 lmt-5">
@@ -1370,11 +1350,11 @@ var pl_p = localStorage.pl;
                     in Chinese (Traditional)
                 </div>
                 <div class="tc-bb tb lpb-25 break-cj" lang="zh-Hant">
-                    橢圓形的, 卵形的&hellip;
+                    悲傷的, 令人憐憫的，可憐的, 不成功的&hellip;
                 </div>
                 <div class="pa pr0 pb0 lp-5 fs13">
-                    <a href="/dictionary/english-chinese-traditional/oval" class="hbtn hbtn-tab bh tc-w"
-                        title="oval: Chinese (Traditional) translation">
+                    <a href="/dictionary/english-chinese-traditional/pathetic" class="hbtn hbtn-tab bh tc-w"
+                        title="pathetic: Chinese (Traditional) translation">
                         See more                    </a>
                 </div>
               </div>
@@ -1383,11 +1363,11 @@ var pl_p = localStorage.pl;
                     in Chinese (Simplified)
                 </div>
                 <div class="tc-bb tb lpb-25 break-cj" lang="zh-Hans">
-                    椭圆形的, 卵形的&hellip;
+                    悲伤的, 招人怜悯的，可怜的, 不成功的&hellip;
                 </div>
                 <div class="pa pr0 pb0 lp-5 fs13">
-                    <a href="/dictionary/english-chinese-simplified/oval" class="hbtn hbtn-tab bh tc-w"
-                        title="oval: Chinese (Simplified) translation">
+                    <a href="/dictionary/english-chinese-simplified/pathetic" class="hbtn hbtn-tab bh tc-w"
+                        title="pathetic: Chinese (Simplified) translation">
                         See more                    </a>
                 </div>
               </div>
@@ -1396,11 +1376,11 @@ var pl_p = localStorage.pl;
                     in Spanish
                 </div>
                 <div class="tc-bb tb lpb-25" lang="es">
-                    ovalado, óvalo [masculine, singular]&hellip;
+                    patético, patético/ca [masculine-feminine, singular]&hellip;
                 </div>
                 <div class="pa pr0 pb0 lp-5 fs13">
-                    <a href="/dictionary/english-spanish/oval" class="hbtn hbtn-tab bh tc-w"
-                        title="oval Spanish translation">
+                    <a href="/dictionary/english-spanish/pathetic" class="hbtn hbtn-tab bh tc-w"
+                        title="pathetic Spanish translation">
                         See more                    </a>
                 </div>
               </div>
@@ -1409,11 +1389,11 @@ var pl_p = localStorage.pl;
                     in Portuguese
                 </div>
                 <div class="tc-bb tb lpb-25" lang="pt">
-                    oval&hellip;
+                    patético&hellip;
                 </div>
                 <div class="pa pr0 pb0 lp-5 fs13">
-                    <a href="/dictionary/english-portuguese/oval" class="hbtn hbtn-tab bh tc-w"
-                        title="oval: Portuguese translation">
+                    <a href="/dictionary/english-portuguese/pathetic" class="hbtn hbtn-tab bh tc-w"
+                        title="pathetic: Portuguese translation">
                         See more                    </a>
                 </div>
               </div>
@@ -1520,11 +1500,11 @@ var pl_p = localStorage.pl;
                       <div class="pr bw lp-10 lmt-5">
                         <span class="pa cs-tw"></span>
                         <div class="tc-bb tb lpb-25" lang="ja">
-                            卵形の&hellip;
+                            （努力が）不十分な, ふがいない&hellip;
                         </div>
                         <div class="pa pr0 pb0 lp-5 fs13">
-                            <a href="/dictionary/english-japanese/oval" class="hbtn hbtn-tab bh tc-w"
-                                title="oval: Japanese translation">
+                            <a href="/dictionary/english-japanese/pathetic" class="hbtn hbtn-tab bh tc-w"
+                                title="pathetic: Japanese translation">
                                 See more                            </a>
                         </div>
                       </div>
@@ -1533,11 +1513,11 @@ var pl_p = localStorage.pl;
                       <div class="pr bw lp-10 lmt-5">
                         <span class="pa cs-tw"></span>
                         <div class="tc-bb tb lpb-25" lang="tr">
-                            oval, yumurta şeklinde&hellip;
+                            beceri/çaba/yürek sergilemeyen, beceriksiz, çaba gösterilmeyen&hellip;
                         </div>
                         <div class="pa pr0 pb0 lp-5 fs13">
-                            <a href="/dictionary/english-turkish/oval" class="hbtn hbtn-tab bh tc-w"
-                                title="oval Turkish translation">
+                            <a href="/dictionary/english-turkish/pathetic" class="hbtn hbtn-tab bh tc-w"
+                                title="pathetic Turkish translation">
                                 See more                            </a>
                         </div>
                       </div>
@@ -1546,11 +1526,11 @@ var pl_p = localStorage.pl;
                       <div class="pr bw lp-10 lmt-5">
                         <span class="pa cs-tw"></span>
                         <div class="tc-bb tb lpb-25" lang="fr">
-                            ovale [masculine], ovale&hellip;
+                            lamentable, pitoyable, pathétique&hellip;
                         </div>
                         <div class="pa pr0 pb0 lp-5 fs13">
-                            <a href="/dictionary/english-french/oval" class="hbtn hbtn-tab bh tc-w"
-                                title="oval: French translation">
+                            <a href="/dictionary/english-french/pathetic" class="hbtn hbtn-tab bh tc-w"
+                                title="pathetic: French translation">
                                 See more                            </a>
                         </div>
                       </div>
@@ -1559,11 +1539,11 @@ var pl_p = localStorage.pl;
                       <div class="pr bw lp-10 lmt-5">
                         <span class="pa cs-tw"></span>
                         <div class="tc-bb tb lpb-25" lang="ca">
-                            ovalat&hellip;
+                            patètic&hellip;
                         </div>
                         <div class="pa pr0 pb0 lp-5 fs13">
-                            <a href="/dictionary/english-catalan/oval" class="hbtn hbtn-tab bh tc-w"
-                                title="oval: Catalan translation">
+                            <a href="/dictionary/english-catalan/pathetic" class="hbtn hbtn-tab bh tc-w"
+                                title="pathetic: Catalan translation">
                                 See more                            </a>
                         </div>
                       </div>
@@ -1572,11 +1552,11 @@ var pl_p = localStorage.pl;
                       <div class="pr bw lp-10 lmt-5">
                         <span class="pa cs-tw"></span>
                         <div class="tc-bb tb lpb-25" lang="ar">
-                            بَيْضَوي&hellip;
+                            مُثير لِلشَّفَقة&hellip;
                         </div>
                         <div class="pa pr0 pb0 lp-5 fs13">
-                            <a href="/dictionary/english-arabic/oval" class="hbtn hbtn-tab bh tc-w"
-                                title="oval: Arabic translation">
+                            <a href="/dictionary/english-arabic/pathetic" class="hbtn hbtn-tab bh tc-w"
+                                title="pathetic: Arabic translation">
                                 See more                            </a>
                         </div>
                       </div>
@@ -1585,11 +1565,11 @@ var pl_p = localStorage.pl;
                       <div class="pr bw lp-10 lmt-5">
                         <span class="pa cs-tw"></span>
                         <div class="tc-bb tb lpb-25" lang="cs">
-                            oválný, elipsa&hellip;
+                            žalostný, dojemný, ubohý&hellip;
                         </div>
                         <div class="pa pr0 pb0 lp-5 fs13">
-                            <a href="/dictionary/english-czech/oval" class="hbtn hbtn-tab bh tc-w"
-                                title="oval: Czech translation">
+                            <a href="/dictionary/english-czech/pathetic" class="hbtn hbtn-tab bh tc-w"
+                                title="pathetic: Czech translation">
                                 See more                            </a>
                         </div>
                       </div>
@@ -1598,11 +1578,11 @@ var pl_p = localStorage.pl;
                       <div class="pr bw lp-10 lmt-5">
                         <span class="pa cs-tw"></span>
                         <div class="tc-bb tb lpb-25" lang="da">
-                            oval&hellip;
+                            sørgelig, sølle&hellip;
                         </div>
                         <div class="pa pr0 pb0 lp-5 fs13">
-                            <a href="/dictionary/english-danish/oval" class="hbtn hbtn-tab bh tc-w"
-                                title="oval: Danish translation">
+                            <a href="/dictionary/english-danish/pathetic" class="hbtn hbtn-tab bh tc-w"
+                                title="pathetic: Danish translation">
                                 See more                            </a>
                         </div>
                       </div>
@@ -1611,11 +1591,11 @@ var pl_p = localStorage.pl;
                       <div class="pr bw lp-10 lmt-5">
                         <span class="pa cs-tw"></span>
                         <div class="tc-bb tb lpb-25" lang="id">
-                            bujur telur, bentuk bujur telur&hellip;
+                            menyedihkan, lemah&hellip;
                         </div>
                         <div class="pa pr0 pb0 lp-5 fs13">
-                            <a href="/dictionary/english-indonesian/oval" class="hbtn hbtn-tab bh tc-w"
-                                title="oval: Indonesian translation">
+                            <a href="/dictionary/english-indonesian/pathetic" class="hbtn hbtn-tab bh tc-w"
+                                title="pathetic: Indonesian translation">
                                 See more                            </a>
                         </div>
                       </div>
@@ -1624,11 +1604,11 @@ var pl_p = localStorage.pl;
                       <div class="pr bw lp-10 lmt-5">
                         <span class="pa cs-tw"></span>
                         <div class="tc-bb tb lpb-25" lang="th">
-                            ซึ่งเป็นรูปไข่, รูปไข่&hellip;
+                            น่าสงสาร, แร้นแค้น&hellip;
                         </div>
                         <div class="pa pr0 pb0 lp-5 fs13">
-                            <a href="/dictionary/english-thai/oval" class="hbtn hbtn-tab bh tc-w"
-                                title="oval: Thai translation">
+                            <a href="/dictionary/english-thai/pathetic" class="hbtn hbtn-tab bh tc-w"
+                                title="pathetic: Thai translation">
                                 See more                            </a>
                         </div>
                       </div>
@@ -1637,11 +1617,11 @@ var pl_p = localStorage.pl;
                       <div class="pr bw lp-10 lmt-5">
                         <span class="pa cs-tw"></span>
                         <div class="tc-bb tb lpb-25" lang="vi">
-                            có hình bầu dục, hình bầu dục&hellip;
+                            thống thiết, thảm bại&hellip;
                         </div>
                         <div class="pa pr0 pb0 lp-5 fs13">
-                            <a href="/dictionary/english-vietnamese/oval" class="hbtn hbtn-tab bh tc-w"
-                                title="oval: Vietnamese translation">
+                            <a href="/dictionary/english-vietnamese/pathetic" class="hbtn hbtn-tab bh tc-w"
+                                title="pathetic: Vietnamese translation">
                                 See more                            </a>
                         </div>
                       </div>
@@ -1650,11 +1630,11 @@ var pl_p = localStorage.pl;
                       <div class="pr bw lp-10 lmt-5">
                         <span class="pa cs-tw"></span>
                         <div class="tc-bb tb lpb-25" lang="pl">
-                            owalny&hellip;
+                            żałosny&hellip;
                         </div>
                         <div class="pa pr0 pb0 lp-5 fs13">
-                            <a href="/dictionary/english-polish/oval" class="hbtn hbtn-tab bh tc-w"
-                                title="oval: Polish translation">
+                            <a href="/dictionary/english-polish/pathetic" class="hbtn hbtn-tab bh tc-w"
+                                title="pathetic: Polish translation">
                                 See more                            </a>
                         </div>
                       </div>
@@ -1663,11 +1643,11 @@ var pl_p = localStorage.pl;
                       <div class="pr bw lp-10 lmt-5">
                         <span class="pa cs-tw"></span>
                         <div class="tc-bb tb lpb-25" lang="ms">
-                            bujur, bentuk bujur&hellip;
+                            menyedihkan, bodoh&hellip;
                         </div>
                         <div class="pa pr0 pb0 lp-5 fs13">
-                            <a href="/dictionary/english-malaysian/oval" class="hbtn hbtn-tab bh tc-w"
-                                title="oval: Malay translation">
+                            <a href="/dictionary/english-malaysian/pathetic" class="hbtn hbtn-tab bh tc-w"
+                                title="pathetic: Malay translation">
                                 See more                            </a>
                         </div>
                       </div>
@@ -1676,11 +1656,11 @@ var pl_p = localStorage.pl;
                       <div class="pr bw lp-10 lmt-5">
                         <span class="pa cs-tw"></span>
                         <div class="tc-bb tb lpb-25" lang="de">
-                            oval, das Oval&hellip;
+                            bemittleidenswert, kläglich&hellip;
                         </div>
                         <div class="pa pr0 pb0 lp-5 fs13">
-                            <a href="/dictionary/english-german/oval" class="hbtn hbtn-tab bh tc-w"
-                                title="oval: German translation">
+                            <a href="/dictionary/english-german/pathetic" class="hbtn hbtn-tab bh tc-w"
+                                title="pathetic: German translation">
                                 See more                            </a>
                         </div>
                       </div>
@@ -1689,11 +1669,11 @@ var pl_p = localStorage.pl;
                       <div class="pr bw lp-10 lmt-5">
                         <span class="pa cs-tw"></span>
                         <div class="tc-bb tb lpb-25" lang="no">
-                            oval [masculine], oval, eggformet&hellip;
+                            patetisk, ynkelig, stakkars&hellip;
                         </div>
                         <div class="pa pr0 pb0 lp-5 fs13">
-                            <a href="/dictionary/english-norwegian/oval" class="hbtn hbtn-tab bh tc-w"
-                                title="oval: Norwegian translation">
+                            <a href="/dictionary/english-norwegian/pathetic" class="hbtn hbtn-tab bh tc-w"
+                                title="pathetic: Norwegian translation">
                                 See more                            </a>
                         </div>
                       </div>
@@ -1702,11 +1682,11 @@ var pl_p = localStorage.pl;
                       <div class="pr bw lp-10 lmt-5">
                         <span class="pa cs-tw"></span>
                         <div class="tc-bb tb lpb-25" lang="ko">
-                            계란형의&hellip;
+                            불쌍한&hellip;
                         </div>
                         <div class="pa pr0 pb0 lp-5 fs13">
-                            <a href="/dictionary/english-korean/oval" class="hbtn hbtn-tab bh tc-w"
-                                title="oval: Korean translation">
+                            <a href="/dictionary/english-korean/pathetic" class="hbtn hbtn-tab bh tc-w"
+                                title="pathetic: Korean translation">
                                 See more                            </a>
                         </div>
                       </div>
@@ -1715,11 +1695,11 @@ var pl_p = localStorage.pl;
                       <div class="pr bw lp-10 lmt-5">
                         <span class="pa cs-tw"></span>
                         <div class="tc-bb tb lpb-25" lang="it">
-                            ovale&hellip;
+                            patetico, debole, pietoso&hellip;
                         </div>
                         <div class="pa pr0 pb0 lp-5 fs13">
-                            <a href="/dictionary/english-italian/oval" class="hbtn hbtn-tab bh tc-w"
-                                title="oval: Italian translation">
+                            <a href="/dictionary/english-italian/pathetic" class="hbtn hbtn-tab bh tc-w"
+                                title="pathetic: Italian translation">
                                 See more                            </a>
                         </div>
                       </div>
@@ -1728,11 +1708,11 @@ var pl_p = localStorage.pl;
                       <div class="pr bw lp-10 lmt-5">
                         <span class="pa cs-tw"></span>
                         <div class="tc-bb tb lpb-25" lang="ru">
-                            овальный&hellip;
+                            жалкий, несчастный&hellip;
                         </div>
                         <div class="pa pr0 pb0 lp-5 fs13">
-                            <a href="/dictionary/english-russian/oval" class="hbtn hbtn-tab bh tc-w"
-                                title="oval: Russian translation">
+                            <a href="/dictionary/english-russian/pathetic" class="hbtn hbtn-tab bh tc-w"
+                                title="pathetic: Russian translation">
                                 See more                            </a>
                         </div>
                       </div>
@@ -1763,9 +1743,9 @@ var pl_p = localStorage.pl;
 
     </div>
                     <div class="lmt-10 hax">
-                        <a href="/pronunciation/english/oval" title="oval pronunciation in English"
+                        <a href="/pronunciation/english/pathetic" title="pathetic pronunciation in English"
                                 class="hao hbtn hbtn-tab hbtn-b hbtn-tl bh tc-w tb pr">
-                            <span class="hdib w95">What is the pronunciation of <em>oval</em>?</span>
+                            <span class="hdib w95">What is the pronunciation of <em>pathetic</em>?</span>
                             <i class="i i-angle-right iw tb pa pr0 pt0 lmt-5 lmr-20" aria-hidden="true"></i>
                         </a>
                     </div>
@@ -1780,46 +1760,47 @@ var pl_p = localStorage.pl;
         
         <div class="hax lp-10 lb lb-cm lbt0 dbrowse">
                             <div class="lmb-12">
-                                            <a href="/dictionary/english/outwork" title="outwork">
-                            <span class="entry_title"><span class="results"><span class="base"><span class="hw haf">outwork</span></span></span></span>
+                                            <a href="/dictionary/english/paternity-leave" title="paternity leave">
+                            <span class="entry_title"><span class="results"><span class="base"><span class="hw haf">paternity leave</span></span></span></span>
                         </a>
                                                             </div>
                             <div class="lmb-12">
-                                            <a href="/dictionary/english/outworn" title="outworn">
-                            <span class="entry_title"><span class="results"><span class="base"><span class="hw haf">outworn</span></span></span></span>
+                                            <a href="/dictionary/english/paternity-pay" title="paternity pay">
+                            <span class="entry_title"><span class="results"><span class="base"><span class="hw haf">paternity pay</span></span></span></span>
                         </a>
                                                             </div>
                             <div class="lmb-12">
-                                            <a href="/dictionary/english/ouzo" title="ouzo">
-                            <span class="entry_title"><span class="results"><span class="base"><span class="hw haf">ouzo</span></span></span></span>
+                                            <a href="/dictionary/english/path" title="path">
+                            <span class="entry_title"><span class="results"><span class="base"><span class="hw haf">path</span></span></span></span>
                         </a>
                                                             </div>
                             <div class="lmb-12">
-                                            <a href="/dictionary/english/ova" title="ova">
-                            <span class="entry_title"><span class="results"><span class="base"><span class="hw haf">ova</span></span></span></span>
+                                            <a href="/dictionary/english/path-decomposition" title="path decomposition">
+                            <span class="entry_title"><span class="results"><span class="base"><span class="hw haf">path decomposition</span></span></span></span>
+                        </a>
+                                                    <span class="bvr tc-w fs12 hbr-10 hv1 lpt-2 lp-10 lpt-2 lpb-2 lml-5">BETA</span>
+                                                            </div>
+                            <div class="lmb-12">
+                                            <span class="entry_title"><span class="results"><span class="base"><span class="hw haf">pathetic</span></span></span></span>
+                                                            </div>
+                            <div class="lmb-12">
+                                            <a href="/dictionary/english/pathetic-fallacy" title="pathetic fallacy">
+                            <span class="entry_title"><span class="results"><span class="base"><span class="hw haf">pathetic fallacy</span></span></span></span>
                         </a>
                                                             </div>
                             <div class="lmb-12">
-                                            <span class="entry_title"><span class="results"><span class="base"><span class="hw haf">oval</span></span></span></span>
-                                                            </div>
-                            <div class="lmb-12">
-                                            <a href="/dictionary/english/ovarian" title="ovarian">
-                            <span class="entry_title"><span class="results"><span class="base"><span class="hw haf">ovarian</span></span></span></span>
+                                            <a href="/dictionary/english/pathetically" title="pathetically">
+                            <span class="entry_title"><span class="results"><span class="base"><span class="hw haf">pathetically</span></span></span></span>
                         </a>
                                                             </div>
                             <div class="lmb-12">
-                                            <a href="/dictionary/english/ovary" title="ovary">
-                            <span class="entry_title"><span class="results"><span class="base"><span class="hw haf">ovary</span></span></span></span>
+                                            <a href="/dictionary/english/pathfinder" title="pathfinder">
+                            <span class="entry_title"><span class="results"><span class="base"><span class="hw haf">pathfinder</span></span></span></span>
                         </a>
                                                             </div>
                             <div class="lmb-12">
-                                            <a href="/dictionary/english/ovate" title="ovate">
-                            <span class="entry_title"><span class="results"><span class="base"><span class="hw haf">ovate</span></span></span></span>
-                        </a>
-                                                            </div>
-                            <div class="lmb-12">
-                                            <a href="/dictionary/english/ovation" title="ovation">
-                            <span class="entry_title"><span class="results"><span class="base"><span class="hw haf">ovation</span></span></span></span>
+                                            <a href="/dictionary/english/pathfinder-prospectus" title="pathfinder prospectus">
+                            <span class="entry_title"><span class="results"><span class="base"><span class="hw haf">pathfinder prospectus</span></span></span></span>
                         </a>
                                                             </div>
                     </div>
@@ -1864,7 +1845,7 @@ var pl_p = localStorage.pl;
         </div>
 
                 <div class="pr">
-            <div class="hdn" [class]="stateGlobal.imageCredits == '0.45585459147112395' ? 'pa pb0 pl-5 bw hbsf fs12 tw-bw lc1 lp-20 lpt-25 lmb-5' : 'hdn'">
+            <div class="hdn" [class]="stateGlobal.imageCredits == '0.17828344557367193' ? 'pa pb0 pl-5 bw hbsf fs12 tw-bw lc1 lp-20 lpt-25 lmb-5' : 'hdn'">
                 <span class="pa pr0 pb-10 c_icb lmr-15"></span>
                 <button on="tap:AMP.setState({ stateGlobal: { imageCredits: '' } })" class="pa pr0 bt pt0 lpt-5 lb0">
                     <i class="i i-close" aria-hidden="true"></i>
@@ -1878,7 +1859,7 @@ var pl_p = localStorage.pl;
             </div>
         </div>
         <div class="lmt-5 htr lmr-25">
-            <a on="tap:AMP.setState({ stateGlobal: { imageCredits: '0.45585459147112395' } })" role="button" aria-label="View image credits" tabindex="0" class="fs12 ti tc-bl">Image credits</a>        </div>
+            <a on="tap:AMP.setState({ stateGlobal: { imageCredits: '0.17828344557367193' } })" role="button" aria-label="View image credits" tabindex="0" class="fs12 ti tc-bl">Image credits</a>        </div>
 
         <a href="/plus/quiz/image/{{randomImageQuizHook.quizId}}"
             class="bh hao hbtn hbtn-tab tb mw260">Try a quiz now</a>
@@ -1901,28 +1882,28 @@ var pl_p = localStorage.pl;
     
     <aside class="lmb-20 lmt-10 cdo-more-results">
         <h2 class="bb fs16 tb lp-10 lmb-5">
-                                    More meanings of <em>oval</em>
+                                    More meanings of <em>pathetic</em>
         </h2>
 
         <div class="lpl-10">
             <amp-accordion disable-session-states>
                 <section expanded>
-                    <header class="ca_h lpl-0" title="All &ldquo;oval&rdquo; meanings in English">
+                    <header class="ca_h lpl-0" title="All &ldquo;pathetic&rdquo; meanings in English">
                         <i class="i i-plus ca_hi" aria-hidden="true"></i>
                         All
                     </header>
                     <div class="ca_b lpl-20 lpr-10 lpb-20">
                         <ul class="hax hul-u hul-u0 lmb-10">
                                                                                                                                                         <li>
-                                        <a href="/dictionary/english/oval-office" title="the Oval Office" class="moreResult"
+                                        <a href="/dictionary/english/pathetic-fallacy" title="pathetic fallacy" class="moreResult"
                                              onclick="ga('send','event', 'more-result', 'more-result-link');" >
-                                            <span class='arl3'><span class="base"><span class="hw haf">the Oval Office</span></span></span>
+                                            <span class='arl3'><span class="base"><span class="hw haf">pathetic fallacy</span></span></span>
                                         </a>
                                     </li>
                                                                                     </ul>
 
-                        <a href="https://dictionary.cambridge.org/search/english/?q=oval" class="tb"
-                                 onclick="ga('send','event', 'more-result', 'see-all-meaning');"                                 title="All meanings for oval in English">
+                        <a href="https://dictionary.cambridge.org/search/english/?q=pathetic" class="tb"
+                                 onclick="ga('send','event', 'more-result', 'see-all-meaning');"                                 title="All meanings for pathetic in English">
                             <span>See all meanings</span>
                         </a>
                     </div>
@@ -1943,24 +1924,24 @@ var pl_p = localStorage.pl;
     
     <div class="pr boa lp-5 lpl-10 lpr-10 lc1">
                                     <div class="pr hdib i i-facebook lp-5 lmr-10">
-            <a class="pa p0" onclick="ga('send', 'event', 'share_this_entry', 'facebook');" target="_blank" rel="noopener" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fdictionary.cambridge.org%2Fdictionary%2Fenglish%2Fdonate&t=" title="Share on Facebook"></a>
+            <a class="pa p0" onclick="ga('send', 'event', 'share_this_entry', 'facebook');" target="_blank" rel="noopener" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fdictionary.cambridge.org%2Fdictionary%2Fenglish%2Fliteracy&t=" title="Share on Facebook"></a>
         </div>
         <div class="pr hdib i i-twitter lp-5 lmr-10">
-            <a class="pa p0" onclick="ga('send', 'event', 'share_this_entry', 'twitter');" target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdictionary.cambridge.org%2Fdictionary%2Fenglish%2Fdonate&text=" title="Share on Twitter"></a>
+            <a class="pa p0" onclick="ga('send', 'event', 'share_this_entry', 'twitter');" target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdictionary.cambridge.org%2Fdictionary%2Fenglish%2Fliteracy&text=" title="Share on Twitter"></a>
         </div>
     
         <div class="htc hax lmt-20 lmb-25">
             <p class="fs12 tcu lmb-0">Word of the Day</p>
             <p class="fs36 lmt-5 feature-w-big wotd-hw">
-                <a href="/dictionary/english/donate">donate</a>
+                <a href="/dictionary/english/literacy">literacy</a>
             </p>
         </div>
     </div>
 
     <div class="hoh lp-20">
-        <p class="lmt-0 lmb-20">to give money or goods to help a person or organization</p>
+        <p class="lmt-0 lmb-20">the ability to read and write</p>
 
-        <a href="/dictionary/english/donate" class="bh hao hbtn hbtn-tab tb">About this</a>
+        <a href="/dictionary/english/literacy" class="bh hao hbtn hbtn-tab tb">About this</a>
     </div>
 </div>
 
@@ -1968,10 +1949,10 @@ var pl_p = localStorage.pl;
 
         
         <div class="bw hbss x lmb-25">
-            <a href="https://dictionaryblog.cambridge.org/2021/09/01/getting-lost-in-books-the-language-of-reading/" target="_blank" rel="noopener noreferrer" class="hdb hao lc1">
-            <amp-img src="/rss/images/noseinabook_orig.jpg" height="180" width="300" alt="Getting lost in books: the language of reading" layout="responsive">
+            <a href="https://dictionaryblog.cambridge.org/2021/09/08/as-good-as-your-word-talking-about-trust-and-loyalty/" target="_blank" rel="noopener noreferrer" class="hdb hao lc1">
+            <amp-img src="/rss/images/good_as_your_word_orig.jpg" height="180" width="300" alt="As good as your word: Talking about trust and loyalty" layout="responsive">
                 <noscript>
-                    <img src="/rss/images/noseinabook_orig.jpg" height="180" width="300" alt="Getting lost in books: the language of reading" class="lc1" />
+                    <img src="/rss/images/good_as_your_word_orig.jpg" height="180" width="300" alt="As good as your word: Talking about trust and loyalty" class="lc1" />
                 </noscript>
             </amp-img>
         </a>
@@ -1979,13 +1960,13 @@ var pl_p = localStorage.pl;
     <div class="hoh lp-20">
         <p class="h6 lm-0 lmb-15">Blog</p>
         <p class="fs19 hlh1_5 lmb-15">
-            <a href="https://dictionaryblog.cambridge.org/2021/09/01/getting-lost-in-books-the-language-of-reading/" class="ha" target="_blank" rel="noopener noreferrer">Getting lost in books: the language of reading</a>
+            <a href="https://dictionaryblog.cambridge.org/2021/09/08/as-good-as-your-word-talking-about-trust-and-loyalty/" class="ha" target="_blank" rel="noopener noreferrer">As good as your word: Talking about trust and loyalty</a>
         </p>
         <div class="fs14 tc-bl lmb-20">
-                        <time datetime="2021-09-01">September 01, 2021</time>
+                        <time datetime="2021-09-08">September 08, 2021</time>
         </div>
         <div>
-            <a href="https://dictionaryblog.cambridge.org/2021/09/01/getting-lost-in-books-the-language-of-reading/" target="_blank" rel="noopener noreferrer" class="bh hao hbtn hbtn-tab tb">
+            <a href="https://dictionaryblog.cambridge.org/2021/09/08/as-good-as-your-word-talking-about-trust-and-loyalty/" target="_blank" rel="noopener noreferrer" class="bh hao hbtn hbtn-tab tb">
                 <span>Read More</span>
             </a>
         </div>
@@ -1996,10 +1977,10 @@ var pl_p = localStorage.pl;
 <div class="bw hbss x lmb-25">
                     
                 
-                <a href="https://dictionaryblog.cambridge.org/2021/08/30/new-words-30-august-2021/" target="_blank" rel="noopener noreferrer" class="hdb hao lc1">
-            <amp-img src="/rss/images/aire.jpg" height="180" width="300" alt="aire" layout="responsive">
+                <a href="https://dictionaryblog.cambridge.org/2021/09/06/new-words-6-september-2021/" target="_blank" rel="noopener noreferrer" class="hdb hao lc1">
+            <amp-img src="/rss/images/cardening.jpg" height="180" width="300" alt="cardening" layout="responsive">
                 <noscript>
-                    <img src="/rss/images/aire.jpg" height="180" width="300" alt="aire" class="lc1" />
+                    <img src="/rss/images/cardening.jpg" height="180" width="300" alt="cardening" class="lc1" />
                 </noscript>
             </amp-img>
         </a>
@@ -2007,14 +1988,14 @@ var pl_p = localStorage.pl;
         <p class="h6 lm-0 lmb-5">New Words</p>
 
         <div class="lmb-15  fs36 ">
-            <a href="https://dictionaryblog.cambridge.org/2021/08/30/new-words-30-august-2021/" class="ha" target="_blank" rel="noopener noreferrer">aire</a>
+            <a href="https://dictionaryblog.cambridge.org/2021/09/06/new-words-6-september-2021/" class="ha" target="_blank" rel="noopener noreferrer">cardening</a>
         </div>
 
         <div class="fs14 tc-bl lmb-20">
-                        <time datetime="2021-08-30">August 30, 2021</time>
+                        <time datetime="2021-09-06">September 06, 2021</time>
         </div>
 
-        <a href="https://dictionaryblog.cambridge.org/2021/08/30/new-words-30-august-2021/" target="_blank" rel="noopener noreferrer" class="bh hao hbtn hbtn-tab tb">
+        <a href="https://dictionaryblog.cambridge.org/2021/09/06/new-words-6-september-2021/" target="_blank" rel="noopener noreferrer" class="bh hao hbtn hbtn-tab tb">
             More new words        </a>
     </div>
 </div>
@@ -2081,9 +2062,9 @@ var pl_p = localStorage.pl;
 
 
 
-                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                    
 <script type="text/javascript">
-    JSON.parse("{&quot;science_geographic_locales/mathematics-and-arithmetic&quot;:&quot;geometrical-shapes&quot;}".replace(/(&quot\;)/g,"\""), (chanel, topic) => {
+    JSON.parse("{&quot;people_society_religion/kind-and-unkind&quot;:&quot;sympathy-and-compassion&quot;,&quot;arts_entertainment_media/good-and-bad&quot;:&quot;not-of-good-quality&quot;,&quot;shopping_consumer_resources/using-and-not-using&quot;:&quot;useless-and-futile&quot;}".replace(/(&quot\;)/g,"\""), (chanel, topic) => {
         if(typeof topic === 'string') {
             ga('send','event', 'Channelization', chanel, topic, {'nonInteraction':1});
             // alert(chanel +','+ topic);
@@ -2360,7 +2341,7 @@ src="https://www.facebook.com/tr?id=511637499182506&ev=PageView
     var aBk = true;
   </script>
   <script type='text/javascript' src="/external/scripts/ads.min.js?version=5.0.185" ></script>
-                                      <script type='text/javascript'>
+                                                                                          <script type='text/javascript'>
   var aData = {"aBk":aBk};
   </script>
 
@@ -2746,52 +2727,52 @@ src="https://www.facebook.com/tr?id=511637499182506&ev=PageView
 
                 <div class="hdn" [class]="stateSidebarNav.lang ? 'han' : 'hdn'">
                     <div class="hul-u lmt-10 lmb-0 lpl-20 cdo-locale-selector hlh1_5">
-                                            <a href="/dictionary/english/oval"
+                                            <a href="/dictionary/english/pathetic"
                             hreflang="en" lang="en"
                             class="hdb lmb-5">English (UK)</a>
-                                            <a href="/us/dictionary/english/oval"
+                                            <a href="/us/dictionary/english/pathetic"
                             hreflang="en-US" lang="en-US"
                             class="hdb lmb-5">English (US)</a>
-                                            <a href="/es/diccionario/ingles/oval"
+                                            <a href="/es/diccionario/ingles/pathetic"
                             hreflang="es" lang="es"
                             class="hdb lmb-5">Español</a>
-                                            <a href="/es-LA/dictionary/english/oval"
+                                            <a href="/es-LA/dictionary/english/pathetic"
                             hreflang="es-419" lang="es-419"
                             class="hdb lmb-5">Español (Latinoamérica)</a>
-                                            <a href="/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/oval"
+                                            <a href="/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/pathetic"
                             hreflang="ru" lang="ru"
                             class="hdb lmb-5">Русский</a>
-                                            <a href="/pt/dicionario/ingles/oval"
+                                            <a href="/pt/dicionario/ingles/pathetic"
                             hreflang="pt" lang="pt"
                             class="hdb lmb-5">Português</a>
-                                            <a href="/de/worterbuch/englisch/oval"
+                                            <a href="/de/worterbuch/englisch/pathetic"
                             hreflang="de" lang="de"
                             class="hdb lmb-5">Deutsch</a>
-                                            <a href="/fr/dictionnaire/anglais/oval"
+                                            <a href="/fr/dictionnaire/anglais/pathetic"
                             hreflang="fr" lang="fr"
                             class="hdb lmb-5">Français</a>
-                                            <a href="/it/dizionario/inglese/oval"
+                                            <a href="/it/dizionario/inglese/pathetic"
                             hreflang="it" lang="it"
                             class="hdb lmb-5">Italiano</a>
-                                            <a href="/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD/oval"
+                                            <a href="/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD/pathetic"
                             hreflang="zh-Hans" lang="zh-Hans"
                             class="hdb lmb-5">中文 (简体)</a>
-                                            <a href="/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E/oval"
+                                            <a href="/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E/pathetic"
                             hreflang="zh-Hant" lang="zh-Hant"
                             class="hdb lmb-5">正體中文 (繁體)</a>
-                                            <a href="/pl/dictionary/english/oval"
+                                            <a href="/pl/dictionary/english/pathetic"
                             hreflang="pl" lang="pl"
                             class="hdb lmb-5">Polski</a>
-                                            <a href="/ko/%EC%82%AC%EC%A0%84/%EC%98%81%EC%96%B4/oval"
+                                            <a href="/ko/%EC%82%AC%EC%A0%84/%EC%98%81%EC%96%B4/pathetic"
                             hreflang="ko" lang="ko"
                             class="hdb lmb-5">한국어</a>
-                                            <a href="/tr/s%C3%B6zl%C3%BCk/ingilizce/oval"
+                                            <a href="/tr/s%C3%B6zl%C3%BCk/ingilizce/pathetic"
                             hreflang="tr" lang="tr"
                             class="hdb lmb-5">Türkçe</a>
-                                            <a href="/ja/dictionary/english/oval"
+                                            <a href="/ja/dictionary/english/pathetic"
                             hreflang="ja" lang="ja"
                             class="hdb lmb-5">日本語</a>
-                                            <a href="/vi/dictionary/english/oval"
+                                            <a href="/vi/dictionary/english/pathetic"
                             hreflang="vi" lang="vi"
                             class="hdb lmb-5">Tiếng Việt</a>
                                         </div>
@@ -3205,49 +3186,49 @@ src="https://www.facebook.com/tr?id=511637499182506&ev=PageView
                 </span>
 
                 <div class="han hul-u lmt-10 lmb-0 lpl-20 hlh1_5">
-                                                                                            <a href="/us/dictionary/english/oval"
+                                                                                            <a href="/us/dictionary/english/pathetic"
                         hreflang="en-US" lang="en-US"
                         class="hdb lmb-5">English (US)</a>
-                                                                            <a href="/es/diccionario/ingles/oval"
+                                                                            <a href="/es/diccionario/ingles/pathetic"
                         hreflang="es" lang="es"
                         class="hdb lmb-5">Español</a>
-                                                                            <a href="/es-LA/dictionary/english/oval"
+                                                                            <a href="/es-LA/dictionary/english/pathetic"
                         hreflang="es-419" lang="es-419"
                         class="hdb lmb-5">Español (Latinoamérica)</a>
-                                                                            <a href="/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/oval"
+                                                                            <a href="/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/pathetic"
                         hreflang="ru" lang="ru"
                         class="hdb lmb-5">Русский</a>
-                                                                            <a href="/pt/dicionario/ingles/oval"
+                                                                            <a href="/pt/dicionario/ingles/pathetic"
                         hreflang="pt" lang="pt"
                         class="hdb lmb-5">Português</a>
-                                                                            <a href="/de/worterbuch/englisch/oval"
+                                                                            <a href="/de/worterbuch/englisch/pathetic"
                         hreflang="de" lang="de"
                         class="hdb lmb-5">Deutsch</a>
-                                                                            <a href="/fr/dictionnaire/anglais/oval"
+                                                                            <a href="/fr/dictionnaire/anglais/pathetic"
                         hreflang="fr" lang="fr"
                         class="hdb lmb-5">Français</a>
-                                                                            <a href="/it/dizionario/inglese/oval"
+                                                                            <a href="/it/dizionario/inglese/pathetic"
                         hreflang="it" lang="it"
                         class="hdb lmb-5">Italiano</a>
-                                                                            <a href="/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD/oval"
+                                                                            <a href="/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD/pathetic"
                         hreflang="zh-Hans" lang="zh-Hans"
                         class="hdb lmb-5">中文 (简体)</a>
-                                                                            <a href="/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E/oval"
+                                                                            <a href="/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E/pathetic"
                         hreflang="zh-Hant" lang="zh-Hant"
                         class="hdb lmb-5">正體中文 (繁體)</a>
-                                                                            <a href="/pl/dictionary/english/oval"
+                                                                            <a href="/pl/dictionary/english/pathetic"
                         hreflang="pl" lang="pl"
                         class="hdb lmb-5">Polski</a>
-                                                                            <a href="/ko/%EC%82%AC%EC%A0%84/%EC%98%81%EC%96%B4/oval"
+                                                                            <a href="/ko/%EC%82%AC%EC%A0%84/%EC%98%81%EC%96%B4/pathetic"
                         hreflang="ko" lang="ko"
                         class="hdb lmb-5">한국어</a>
-                                                                            <a href="/tr/s%C3%B6zl%C3%BCk/ingilizce/oval"
+                                                                            <a href="/tr/s%C3%B6zl%C3%BCk/ingilizce/pathetic"
                         hreflang="tr" lang="tr"
                         class="hdb lmb-5">Türkçe</a>
-                                                                            <a href="/ja/dictionary/english/oval"
+                                                                            <a href="/ja/dictionary/english/pathetic"
                         hreflang="ja" lang="ja"
                         class="hdb lmb-5">日本語</a>
-                                                                            <a href="/vi/dictionary/english/oval"
+                                                                            <a href="/vi/dictionary/english/pathetic"
                         hreflang="vi" lang="vi"
                         class="hdb lmb-5">Tiếng Việt</a>
                                                     </div>
@@ -3277,26 +3258,42 @@ src="https://www.facebook.com/tr?id=511637499182506&ev=PageView
 
                 <amp-state id="stateSidebarContentNav"><script type="application/json">
                     {
-                    "cald4":   true ,"cacd":   false ,"cacd_Adjective":   false ,
-        "cacd_Noun":   false ,
+                    "cald4":   true ,"cald4_Adjective":   true ,
+                                            "cacd":   false ,"cacd_Adjective":   false ,
+        "cacd_Adverb":   false ,
             "examples":   false ,                    "erroneous_extra_item": false
                     }
                 </script></amp-state><ul class="hul-u hul-u0 fs14 lmb-0 lbb lb-cm order-container"><li class="lbb lb-cm order-firstItem" data-dataset="cald4">
-<div class="habg hax lp-15 lpt-10 lpb-10"><a class="pr tcu hdb lpt-2 lpb-2" role="button" aria-label="Open variations list" on="tap: AMP.setState({ stateSidebarContentNav: {'cald4': !stateSidebarContentNav['cald4'] } })"><span>English </span><i class="  i-minus  i ibd pa pr5 " [class]="stateSidebarContentNav['cald4'] ? 'i i-minus ibd pa pr5' : 'i i-plus ibd pa pr5'"> </i></a></div><div class="  " [class]="stateSidebarContentNav['cald4'] ? '' : 'hdn'"><div class="lbt lml-15 lmr-15 lpt-10 lpb-10 lpl-10"><a href="#cald4-1"><span class="ti tb">Adjective</span></a></div></div><div class="  " [class]="stateSidebarContentNav['cald4'] ? '' : 'hdn'"><div class="lbt lml-15 lmr-15 lpt-10 lpb-10 lpl-10"><a href="#cald4-2"><span class="ti tb">Noun</span></a></div></div>
+<div class="habg hax lp-15 lpt-10 lpb-10"><a class="pr tcu hdb lpt-2 lpb-2" role="button" aria-label="Open variations list" on="tap: AMP.setState({ stateSidebarContentNav: {'cald4': !stateSidebarContentNav['cald4'] } })"><span>English </span><i class="  i-minus  i ibd pa pr5 " [class]="stateSidebarContentNav['cald4'] ? 'i i-minus ibd pa pr5' : 'i i-plus ibd pa pr5'"> </i></a></div><div class="  " [class]="stateSidebarContentNav['cald4'] ? '' : 'hdn'"><ul class="hul-u hul-un hul-u0 lm-0 lbt lb-cm lml-15 lmr-15"><li class="lbb lb-cm">
+<div class="pr hp lpt-10 lpb-10 lpl-10" role="button" aria-label="Open variations list" tabindex="0" on="tap: AMP.setState({ stateSidebarContentNav: {'cald4_Adjective': !stateSidebarContentNav['cald4_Adjective'] } })">
+<span class="ti tb">Adjective</span><i class=" i i-minus ibd pa pr5 lpt-2 " [class]="stateSidebarContentNav['cald4_Adjective'] ? 'i i-minus ibd pa pr5 lpt-2' : 'i i-plus ibd pa pr5 lpt-2'"> </i>
+</div>
+<div class=" lpl-20 " [class]="stateSidebarContentNav['cald4_Adjective'] ? 'lpl-20' : 'hdn'" data-key-open="cald4_Adjective" data-key-current="cald4_Adjective"><ul class="lmb-5">
+<li class="lpt-5 lpb-5"><a class="js-trigger" data-onclick="ga('send','event', 'navigation', 'navigation-link' );" href="#cald4-1-1" title="pathetic meaning
+                "><span class="hw">pathetic</span> <span class="alt gw">(SAD)</span></a></li>
+<li class="lpt-5 lpb-5"><a class="js-trigger" data-onclick="ga('send','event', 'navigation', 'navigation-link' );" href="#cald4-1-2" title="pathetic meaning
+                "><span class="hw">pathetic</span> <span class="alt gw">(UNSUCCESSFUL)</span></a></li>
+</ul></div>
+</li>
+</ul></div>
 </li><li class="lbb lb-cm " data-dataset="cacd">
 <div class="habg hax lp-15 lpt-10 lpb-10"><a class="pr tcu hdb lpt-2 lpb-2" role="button" aria-label="Open variations list" on="tap: AMP.setState({ stateSidebarContentNav: {'cacd': !stateSidebarContentNav['cacd'] } })"><span>American </span><i class="  i-plus  i ibd pa pr5 " [class]="stateSidebarContentNav['cacd'] ? 'i i-minus ibd pa pr5' : 'i i-plus ibd pa pr5'"> </i></a></div><div class="  hdn  " [class]="stateSidebarContentNav['cacd'] ? '' : 'hdn'"><ul class="hul-u hul-un hul-u0 lm-0 lbt lb-cm lml-15 lmr-15"><li class="lbb lb-cm">
 <div class="pr hp lpt-10 lpb-10 lpl-10" role="button" aria-label="Open variations list" tabindex="0" on="tap: AMP.setState({ stateSidebarContentNav: {'cacd_Adjective': !stateSidebarContentNav['cacd_Adjective'] } })">
 <span class="ti tb">Adjective</span><i class=" i i-plus ibd pa pr5 lpt-2 " [class]="stateSidebarContentNav['cacd_Adjective'] ? 'i i-minus ibd pa pr5 lpt-2' : 'i i-plus ibd pa pr5 lpt-2'"> </i>
 </div>
-<div class=" hdn " [class]="stateSidebarContentNav['cacd_Adjective'] ? 'lpl-20' : 'hdn'" data-key-open="" data-key-current="cacd_Adjective"><ul class="lmb-5"><li class="lpt-5 lpb-5"><a class="js-trigger" data-onclick="ga('send','event', 'navigation', 'navigation-link' );" href="#cacd-1" title="oval meaning
-                "><span class="hw">oval</span></a></li></ul></div>
+<div class=" hdn " [class]="stateSidebarContentNav['cacd_Adjective'] ? 'lpl-20' : 'hdn'" data-key-open="cald4_Adjective" data-key-current="cacd_Adjective"><ul class="lmb-5">
+<li class="lpt-5 lpb-5"><a class="js-trigger" data-onclick="ga('send','event', 'navigation', 'navigation-link' );" href="#cacd-1-1" title="pathetic meaning
+                "><span class="hw">pathetic</span> <span class="alt gw">(SAD)</span></a></li>
+<li class="lpt-5 lpb-5"><a class="js-trigger" data-onclick="ga('send','event', 'navigation', 'navigation-link' );" href="#cacd-1-2" title="pathetic meaning
+                "><span class="hw">pathetic</span> <span class="alt gw">(UNSUCCESSFUL)</span></a></li>
+</ul></div>
 </li>
 </ul></div><div class="  hdn  " [class]="stateSidebarContentNav['cacd'] ? '' : 'hdn'"><ul class="hul-u hul-un hul-u0 lm-0 lbt lb-cm lml-15 lmr-15"><li class="lbb lb-cm">
-<div class="pr hp lpt-10 lpb-10 lpl-10" role="button" aria-label="Open variations list" tabindex="0" on="tap: AMP.setState({ stateSidebarContentNav: {'cacd_Noun': !stateSidebarContentNav['cacd_Noun'] } })">
-<span class="ti tb">Noun</span><i class=" i i-plus ibd pa pr5 lpt-2 " [class]="stateSidebarContentNav['cacd_Noun'] ? 'i i-minus ibd pa pr5 lpt-2' : 'i i-plus ibd pa pr5 lpt-2'"> </i>
+<div class="pr hp lpt-10 lpb-10 lpl-10" role="button" aria-label="Open variations list" tabindex="0" on="tap: AMP.setState({ stateSidebarContentNav: {'cacd_Adverb': !stateSidebarContentNav['cacd_Adverb'] } })">
+<span class="ti tb">Adverb</span><i class=" i i-plus ibd pa pr5 lpt-2 " [class]="stateSidebarContentNav['cacd_Adverb'] ? 'i i-minus ibd pa pr5 lpt-2' : 'i i-plus ibd pa pr5 lpt-2'"> </i>
 </div>
-<div class=" hdn " [class]="stateSidebarContentNav['cacd_Noun'] ? 'lpl-20' : 'hdn'" data-key-open="" data-key-current="cacd_Noun"><ul class="lmb-5"><li class="lpt-5 lpb-5"><a class="js-trigger" data-onclick="ga('send','event', 'navigation', 'navigation-link' );" href="#cacd-1-2" title="oval meaning
-                "><span class="hw">oval</span></a></li></ul></div>
+<div class=" hdn " [class]="stateSidebarContentNav['cacd_Adverb'] ? 'lpl-20' : 'hdn'" data-key-open="cald4_Adjective" data-key-current="cacd_Adverb"><ul class="lmb-5"><li class="lpt-5 lpb-5"><a class="js-trigger" data-onclick="ga('send','event', 'navigation', 'navigation-link' );" href="#cacd-1-3" title="pathetically meaning
+                "><span class="hw">pathetically</span></a></li></ul></div>
 </li>
 </ul></div>
 </li><li class="lbb lb-cm lp-15 lpt-10 lpb-10"><a class="habg hax tcu hdb lpt-2 lpb-2" href="#dataset_examples"><span>Examples</span></a></li></ul>
@@ -3358,7 +3355,7 @@ src="https://www.facebook.com/tr?id=511637499182506&ev=PageView
 
             <div class="han tc-bd lp-15 lpt-5 lpb-25">
                 <div class="fs18 lpt-20 lmb-25">My word lists</div>
-                <p>Add <strong class='tb'>oval</strong> to one of your lists below, or create a new one.</p>
+                <p>Add <strong class='tb'>pathetic</strong> to one of your lists below, or create a new one.</p>
 
                 <div class="lp-10 lc1 lmb-10">
                     <form class="x" id="formAddToWordlistNew" method="post" action-xhr="https://dictionary.cambridge.org/plus/addWordlist"

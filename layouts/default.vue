@@ -8,7 +8,6 @@
     }
 </script>
 
-
 <template>
     <div class="px-12 py-12">
         <nav-bar />

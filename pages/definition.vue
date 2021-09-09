@@ -10,7 +10,6 @@
                 word: this.$route.query.word
             })
 
-            loading: false
             if(data.success) {
                 this.definition = data.data.definition
             }
