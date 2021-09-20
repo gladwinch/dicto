@@ -3,6 +3,7 @@
 	import _debounce from 'lodash.debounce'
 
 	export default {
+		layout: "landing",
 		components: {
 			NavBar
 		},
@@ -76,8 +77,7 @@
 							<div 
 								class="p-3 px-5 bg-gray-100 text-gray-500 cursor-pointer hover:bg-gray-200" 
 								v-for="text in suggestions" :key="text"
-								@click="word=text; suggestions=[]"
-
+								@click="word=text; suggestions=[]; searchWord()"
 							>
 								{{ text }}
 							</div>

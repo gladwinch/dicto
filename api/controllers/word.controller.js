@@ -8,7 +8,6 @@ exports.definition = asyncHandler(async (req,res,next) => {
     console.log("api is working...")
 
     const _b = req.body
-    const response = { sentenses: [] }
 
     if(!_b.word) return next(
         new ErrorResponse("Please provide word", 400)
@@ -16,24 +15,18 @@ exports.definition = asyncHandler(async (req,res,next) => {
 
     const result = await axios.get(process.env.DEFINITION_SRC+_b.word)
 
-     fs.writeFile('htmlfile.txt', result.data, function(err) {
-        if(err) {
-            return console.log(err);
-        }
-        console.log("The file was saved!")
-    })
+    //  fs.writeFile('htmlfile.txt', result.data, function(err) {
+    //     if(err) {
+    //         return console.log(err);
+    //     }
+    //     console.log("The file was saved!")
+    // })
 
     const $ = cheerio.load(result.data)
 
-    response.definition = $('.ddef_d').text()
-    $('ul .dexamp').each((i, el) => {
-        console.log('i', i)
-        response.sentenses.push($(el).text())
-    })
-
     res.status(200).json({ 
         success: true, 
-        data: response
+        data: $('.ddef_d').text() || ''
     })
 })
 
@@ -45,10 +38,8 @@ exports.synonym = asyncHandler(async (req,res,next) => {
     )
 
     let { data } = await axios.get(process.env.SYNONYMS_SRC+_b.word+'?limit=6')
-
-    console.log('data: ', data)
-
-    data = data.data.map(i => i.targetTerm)
+    
+    data = (data.data || []).map(i => i.targetTerm)
 
     res.status(200).json({ success: true, data })
 })
@@ -67,7 +58,7 @@ exports.sentence = asyncHandler(async (req,res,next) => {
     $('.sentence-item')
     .each((i, el) => sentense.push($(el).text()))
 
-    sentense = sentense.sort((a,b) => a.length - b.length).map(i => i.trim()).slice(0, 10)
+    sentense = (sentense || []).sort((a,b) => a.length - b.length).map(i => i.trim()).slice(0, 10)
 
     res.status(200).json({ 
         success: true, 
