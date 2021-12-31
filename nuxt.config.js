@@ -28,6 +28,9 @@ export default {
 	],
 	axios: {},
 	build: {},
+	server: {
+		port: 8000
+	},
 	serverMiddleware: [
 		'~/api/index.js'
 	]

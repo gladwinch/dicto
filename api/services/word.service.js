@@ -1,30 +1,30 @@
-const axois = require("axios")
-const $ = require("cheerio")
+const axios = require("axios")
+const cheerio = require("cheerio")
 const promisifier = require('./promisifier.service')
 
 
-const definationPromise = promisifier( async (word) => {
+const getDefinition = promisifier( async (word) => {
     if(!word) return null
 
-    const result = await axios.get(process.env.DEFINITION_SRC+_b.word)
+    const result = await axios.get(process.env.DEFINITION_SRC+word)
     const $ = cheerio.load(result.data)
 
     return $('.ddef_d').text() || ''
 })
 
-const synonymPromise = promisifier( async (word) => {
+const getSynonyms = promisifier( async (word) => {
     if(!word) return null
 
-    let { data } = await axios.get(process.env.SYNONYMS_SRC+_b.word+'?limit=6')
+    let { data } = await axios.get(process.env.SYNONYMS_SRC+word+'?limit=6')
     
     data = (data.data || []).map(i => i.targetTerm)
     return data
 })
 
-const sentencePromise = promisifier( async (word) => {
+const getSentence = promisifier( async (word) => {
     if(!word) return null
 
-    let { data } = await axios.get("https://sentence.yourdictionary.com/"+_b.word)
+    let { data } = await axios.get("https://sentence.yourdictionary.com/"+word)
 
     const $ = cheerio.load(data)
     let sentense = []
@@ -35,8 +35,8 @@ const sentencePromise = promisifier( async (word) => {
     return sentense
 })
 
-module.export = {
-    definationPromise,
-    synonymPromise,
-    sentencePromise
+module.exports = {
+    getDefinition,
+    getSynonyms,
+    getSentence
 }

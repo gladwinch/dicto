@@ -1,30 +1,35 @@
 const asyncHandler = require('../middleware/async')
 const ErrorResponse = require('../utils/errorResponse')
-const { getSentence, getDefination, getSynonym } = require('../services/word.service')
+const Word = require('../models/word.models')
+const { getSentence, getDefinition, getSynonyms } = require('../services/word.service')
 
-exports.search = asyncHandler(async (req,res,next) => {
-    const _b = req.body 
+exports.search = asyncHandler(async (req, res, next) => {
+    const _b = req.query 
 
     if(!_b.word) return next(
         new ErrorResponse('Please provide a word', 400)
     )
 
-    const [
-        sentence,
-        defination,
-        synonym 
-    ] = await Promise.all([
-        getSentence(_b.word),
-        getDefination(_b.word),
-        getSynonym(_b.word)
-    ])
+    let word = await Word.findOne({ word: _b.word })
 
-    res.status(200).json({
-        success: true,
-        data: {
+    if(!word) {
+        const [
             sentence,
-            defination,
-            synonym
-        }
-    })
+            definition,
+            synonyms
+        ] = await Promise.all([
+            getSentence(_b.word),
+            getDefinition(_b.word),
+            getSynonyms(_b.word)
+        ])
+
+        word = await Word.create({
+            word: _b.word,
+            sentence,
+            definition,
+            synonyms
+        })
+    }
+
+    res.status(200).json({ success: true, data: word })
 })
